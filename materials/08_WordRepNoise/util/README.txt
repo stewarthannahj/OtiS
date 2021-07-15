@@ -1,0 +1,1 @@
+Some of the scripts in this folder are one-time (i.e. need not be rerun). These still point to PBK_HI folder instead of MWC.

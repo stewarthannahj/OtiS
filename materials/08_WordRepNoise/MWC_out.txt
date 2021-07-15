@@ -1,0 +1,1894 @@
+  
+MWC, 01-Jun-2016 20:22:31, s, Masker=SSN, thresh= 83.3333, SD= 1.633, bumps= 0
+  
+MWC, 01-Jun-2016 21:38:40, s, Masker=2-talker, thresh= 87.6667, SD= 2.3381, bumps= 1
+  
+MWC, 02-Jun-2016 17:42:53, s, Masker=2-talker, thresh= 63, SD= 1.0954, bumps= 0
+  
+MWC, 22-Jun-2016 12:31:25, ljl, Masker=2-talker SSN, thresh= 66, SD= 1.7889, bumps= 0
+  
+MWC, 22-Jun-2016 12:34:47, ljl, Masker=2-talker, thresh= 61, SD= 4.858, bumps= 0
+  
+MWC, 29-Jun-2016 11:19:35, testJB, Masker=2-talker SSN, thresh= 63.6667, SD= 2.9439, bumps= 0
+  
+MWC, 29-Jun-2016 11:21:38, jb test, Masker=2-talker, thresh= 65, SD= 1.0954, bumps= 0
+  
+MWC, 29-Jun-2016 11:24:00, jb test, Masker=2-talker, thresh= 64.3333, SD= 3.4448, bumps= 0
+  
+MWC, 29-Jun-2016 11:25:41, jbtest, Masker=2-talker SSN, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 29-Jun-2016 11:38:29, jb test, Masker=2-talker SSN, thresh= 63.6667, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jun-2016 11:41:23, jb test, Masker=2-talker, thresh= 69.6667, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jun-2016 11:43:36, test jb, Masker=2-talker, thresh= 67.6667, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jun-2016 11:45:29, jb test, Masker=2-talker SSN, thresh= 64.6667, SD= 2.3381, bumps= 0
+  
+MWC, 29-Jun-2016 11:50:22, test jb, Masker=2-talker, thresh= 67.6667, SD= 0.8165, bumps= 0
+  
+MWC, 05-Jul-2016 15:02:24, SAR037, Masker=2-talker SSN, thresh= 64.6667, SD= 1.0328, bumps= 0
+  
+MWC, 05-Jul-2016 15:04:43, SAR037, Masker=2-talker, thresh= 63.3333, SD= 1.0328, bumps= 0
+  
+MWC, 05-Jul-2016 15:07:06, SAR037, Masker=2-talker SSN, thresh= 61.3333, SD= 2.9439, bumps= 0
+  
+MWC, 05-Jul-2016 15:09:33, SAR037, Masker=2-talker, thresh= 62.3333, SD= 1.633, bumps= 0
+  
+MWC, 06-Jul-2016 10:19:08, SAR055, Masker=2-talker SSN, thresh= 48.3333, SD= 3.266, bumps= 0
+  
+MWC, 06-Jul-2016 10:21:22, SAR055, Masker=2-talker, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 06-Jul-2016 10:24:14, SAR055, Masker=2-talker, thresh= 58, SD= 1.2649, bumps= 0
+  
+MWC, 06-Jul-2016 10:26:25, SAR055, Masker=2-talker SSN, thresh= 64.3333, SD= 1.5055, bumps= 0
+  
+MWC, 06-Jul-2016 10:28:18, SAR055, Masker=2-talker, thresh= 55.6667, SD= 2.3381, bumps= 0
+  
+MWC, 06-Jul-2016 10:30:13, SAR055, Masker=2-talker SSN, thresh= 59.6667, SD= 2.3381, bumps= 0
+  
+MWC, 06-Jul-2016 11:20:30, SAR056, Masker=2-talker SSN, thresh= 52.3333, SD= 1.0328, bumps= 0
+  
+MWC, 06-Jul-2016 11:23:02, SAR056, Masker=2-talker, thresh= 55.3333, SD= 5.8538, bumps= 0
+  
+MWC, 06-Jul-2016 11:25:59, SAR056, Masker=2-talker SSN, thresh= 61.6667, SD= 3.0111, bumps= 0
+  
+MWC, 06-Jul-2016 11:27:46, SAR056, Masker=2-talker, thresh= 57.6667, SD= 1.0328, bumps= 0
+  
+MWC, 06-Jul-2016 11:29:42, SAR056, Masker=2-talker SSN, thresh= 60, SD= 1.0954, bumps= 0
+  
+MWC, 08-Jul-2016 11:10:59, SAR066, Masker=2-talker, thresh= 62.6667, SD= 3.5024, bumps= 0
+  
+MWC, 08-Jul-2016 11:13:05, SAR066, Masker=2-talker SSN, thresh= 61.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Jul-2016 11:15:11, SAR066, Masker=2-talker SSN, thresh= 67.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Jul-2016 11:18:21, SAR066, Masker=2-talker, thresh= 65, SD= 2.0976, bumps= 0
+  
+MWC, 08-Jul-2016 11:27:10, SAR065, Masker=2-talker SSN, thresh= 60.3333, SD= 2.4221, bumps= 0
+  
+MWC, 08-Jul-2016 11:29:13, SAR065, Masker=2-talker, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 08-Jul-2016 11:31:28, SAR065, Masker=2-talker, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 08-Jul-2016 11:33:42, SAR065, Masker=2-talker SSN, thresh= 59.3333, SD= 2.9439, bumps= 0
+  
+MWC, 08-Jul-2016 15:54:46, SAR070, Masker=2-talker SSN, thresh= 63, SD= 1.0954, bumps= 0
+  
+MWC, 08-Jul-2016 15:57:08, SAR070, Masker=2-talker, thresh= 60.6667, SD= 1.0328, bumps= 0
+  
+MWC, 08-Jul-2016 16:07:02, SAR070, Masker=2-talker, thresh= 61.3333, SD= 2.7325, bumps= 0
+  
+MWC, 08-Jul-2016 16:09:29, SAR070, Masker=2-talker SSN, thresh= 63, SD= 2.0976, bumps= 0
+  
+MWC, 11-Jul-2016 14:09:32, SAR015, Masker=2-talker, thresh= 55, SD= 4.5166, bumps= 0
+  
+MWC, 11-Jul-2016 14:11:43, SAR015, Masker=2-talker SSN, thresh= 63.3333, SD= 1.633, bumps= 0
+  
+MWC, 11-Jul-2016 14:13:50, SAR015, Masker=2-talker SSN, thresh= 67, SD= 2.0976, bumps= 0
+  
+MWC, 11-Jul-2016 14:17:01, SAR015, Masker=2-talker, thresh= 67, SD= 4.1473, bumps= 0
+  
+MWC, 11-Jul-2016 14:19:07, SAR015, Masker=2-talker, thresh= 65, SD= 1.0954, bumps= 0
+  
+MWC, 12-Jul-2016 09:48:33, SAR076, Masker=2-talker, thresh= 44, SD= 1.0954, bumps= 0
+  
+MWC, 12-Jul-2016 09:50:59, SAR076, Masker=2-talker SSN, thresh= 53, SD= 1.7889, bumps= 0
+  
+MWC, 12-Jul-2016 09:52:36, SAR076, Masker=2-talker SSN, thresh= 60, SD= 1.0954, bumps= 0
+  
+MWC, 12-Jul-2016 09:54:48, SAR076, Masker=2-talker, thresh= 52.6667, SD= 1.5055, bumps= 0
+  
+MWC, 12-Jul-2016 09:57:13, SAR076, Masker=2-talker, thresh= 52.3333, SD= 1.633, bumps= 0
+  
+MWC, 12-Jul-2016 09:59:15, SAR076, Masker=2-talker SSN, thresh= 53.6667, SD= 2.4221, bumps= 0
+  
+MWC, 13-Jul-2016 09:50:40, SAR036, Masker=2-talker SSN, thresh= 66.6667, SD= 1.633, bumps= 0
+  
+MWC, 13-Jul-2016 09:54:00, SAR036, Masker=2-talker, thresh= 60.6667, SD= 1.0328, bumps= 0
+  
+MWC, 13-Jul-2016 09:56:30, SAR036, Masker=2-talker SSN, thresh= 59.6667, SD= 0.8165, bumps= 0
+  
+MWC, 13-Jul-2016 09:59:49, SAR036, Masker=2-talker, thresh= 63.3333, SD= 2.0656, bumps= 0
+  
+MWC, 13-Jul-2016 10:02:01, SAR036, Masker=2-talker SSN, thresh= 61, SD= 1.0954, bumps= 0
+  
+MWC, 14-Jul-2016 10:23:40, SAR058, Masker=2-talker, thresh= 52.3333, SD= 1.633, bumps= 0
+  
+MWC, 14-Jul-2016 10:26:17, SAR058, Masker=2-talker SSN, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 14-Jul-2016 10:29:21, SAR058, Masker=2-talker, thresh= 62.3333, SD= 1.633, bumps= 0
+  
+MWC, 14-Jul-2016 10:31:52, SAR058, Masker=2-talker SSN, thresh= 50, SD= 5.7619, bumps= 0
+  
+MWC, 14-Jul-2016 10:35:09, SAR058, Masker=2-talker SSN, thresh= 57.6667, SD= 1.0328, bumps= 0
+  
+MWC, 14-Jul-2016 10:37:44, SAR058, Masker=2-talker, thresh= 60.3333, SD= 2.0656, bumps= 0
+  
+MWC, 15-Jul-2016 14:21:11, SAR075, Masker=2-talker, thresh= 58.3333, SD= 4.5019, bumps= 0
+  
+MWC, 15-Jul-2016 14:23:21, SAR075, Masker=2-talker SSN, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 15-Jul-2016 14:26:12, SAR075, Masker=2-talker SSN, thresh= 60.3333, SD= 1.633, bumps= 0
+  
+MWC, 15-Jul-2016 14:29:03, SAR075, Masker=2-talker, thresh= 55.3333, SD= 3.4448, bumps= 0
+  
+MWC, 20-Jul-2016 15:05:05, SAR072, Masker=2-talker SSN, thresh= 68.6667, SD= 1.633, bumps= 0
+  
+MWC, 20-Jul-2016 15:08:18, SAR072, Masker=2-talker, thresh= 59.6667, SD= 2.9439, bumps= 0
+  
+MWC, 20-Jul-2016 15:10:35, SAR072, Masker=2-talker SSN, thresh= 71.6667, SD= 2.4221, bumps= 0
+  
+MWC, 20-Jul-2016 15:13:20, SAR072, Masker=2-talker, thresh= 65, SD= 2.0976, bumps= 0
+  
+MWC, 20-Jul-2016 15:15:27, SAR072, Masker=2-talker, thresh= 65, SD= 3.3466, bumps= 0
+  
+MWC, 20-Jul-2016 15:56:01, SAR073, Masker=2-talker SSN, thresh= 64, SD= 1.7889, bumps= 0
+  
+MWC, 20-Jul-2016 15:58:18, SAR073, Masker=2-talker, thresh= 58.3333, SD= 4.274, bumps= 0
+  
+MWC, 20-Jul-2016 16:00:56, SAR073, Masker=2-talker SSN, thresh= 58.3333, SD= 3.2042, bumps= 0
+  
+MWC, 20-Jul-2016 16:03:47, SAR073, Masker=2-talker, thresh= 60.6667, SD= 2.7325, bumps= 0
+  
+MWC, 20-Jul-2016 16:06:03, SAR073, Masker=2-talker SSN, thresh= 63.3333, SD= 2.7325, bumps= 0
+  
+MWC, 21-Jul-2016 09:37:07, SAR080, Masker=2-talker, thresh= 57.6667, SD= 3.4448, bumps= 0
+  
+MWC, 21-Jul-2016 09:40:40, SAR080, Masker=2-talker SSN, thresh= 58.6667, SD= 6.0222, bumps= 0
+  
+MWC, 21-Jul-2016 09:42:34, SAR080, Masker=2-talker, thresh= 64.6667, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2016 09:45:23, SAR080, Masker=2-talker SSN, thresh= 62, SD= 1.7889, bumps= 0
+  
+MWC, 21-Jul-2016 09:47:33, SAR080, Masker=2-talker, thresh= 60.3333, SD= 4.6332, bumps= 0
+  
+MWC, 21-Jul-2016 09:53:09, SAR081, Masker=2-talker SSN, thresh= 65, SD= 2.7568, bumps= 0
+  
+MWC, 21-Jul-2016 09:55:05, SAR081, Masker=2-talker, thresh= 61.6667, SD= 1.5055, bumps= 0
+  
+MWC, 21-Jul-2016 09:57:08, SAR081, Masker=2-talker, thresh= 61, SD= 2.4495, bumps= 0
+  
+MWC, 21-Jul-2016 09:59:11, SAR081, Masker=2-talker SSN, thresh= 64.6667, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2016 10:03:55, SAR082, Masker=2-talker, thresh= 63.3333, SD= 2.7325, bumps= 0
+  
+MWC, 21-Jul-2016 10:05:26, SAR082, Masker=2-talker SSN, thresh= 69, SD= 1.0954, bumps= 0
+  
+MWC, 21-Jul-2016 10:07:20, SAR082, Masker=2-talker SSN, thresh= 63.6667, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2016 10:09:59, SAR082, Masker=2-talker, thresh= 59.3333, SD= 2.9439, bumps= 0
+  
+MWC, 21-Jul-2016 10:12:14, SAR082, Masker=2-talker SSN, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 21-Jul-2016 10:14:36, SAR082, Masker=2-talker SSN, thresh= 58.6667, SD= 4.274, bumps= 0
+  
+MWC, 21-Jul-2016 14:58:54, SAR086, Masker=2-talker SSN, thresh= 64.6667, SD= 3.5024, bumps= 0
+  
+MWC, 21-Jul-2016 15:01:20, SAR086, Masker=2-talker, thresh= 57, SD= 3.2863, bumps= 0
+  
+MWC, 21-Jul-2016 15:03:42, SAR086, Masker=2-talker SSN, thresh= 66, SD= 1.7889, bumps= 0
+  
+MWC, 21-Jul-2016 15:07:07, SAR086, Masker=2-talker, thresh= 62.3333, SD= 2.9439, bumps= 0
+  
+MWC, 21-Jul-2016 15:09:15, SAR086, Masker=2-talker, thresh= 59.3333, SD= 5.0067, bumps= 0
+  
+MWC, 23-Jul-2016 10:14:33, SAR088, Masker=2-talker, thresh= 62.6667, SD= 1.5055, bumps= 0
+  
+MWC, 23-Jul-2016 10:16:00, SAR088, Masker=2-talker SSN, thresh= 63, SD= 1.2649, bumps= 0
+  
+MWC, 23-Jul-2016 10:17:53, SAR088, Masker=2-talker, thresh= 57, SD= 2.1909, bumps= 0
+  
+MWC, 23-Jul-2016 10:19:33, SAR088, Masker=2-talker SSN, thresh= 61, SD= 1.7889, bumps= 0
+  
+MWC, 23-Jul-2016 10:21:19, SAR088, Masker=2-talker, thresh= 57.6667, SD= 5.3166, bumps= 0
+  
+MWC, 25-Jul-2016 10:13:25, SAR024, Masker=2-talker, thresh= 67, SD= 1.0954, bumps= 0
+  
+MWC, 25-Jul-2016 10:15:32, SAR024, Masker=2-talker SSN, thresh= 65.6667, SD= 1.5055, bumps= 0
+  
+MWC, 25-Jul-2016 10:18:15, SAR024, Masker=2-talker, thresh= 61.3333, SD= 1.5055, bumps= 0
+  
+MWC, 25-Jul-2016 10:20:29, SAR024, Masker=2-talker SSN, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 25-Jul-2016 10:23:14, SAR024, Masker=2-talker, thresh= 62, SD= 3.9497, bumps= 0
+  
+MWC, 27-Jul-2016 10:50:21, SAR096, Masker=2-talker SSN, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 27-Jul-2016 10:51:48, SAR096, Masker=2-talker, thresh= 64.6667, SD= 2.3381, bumps= 0
+  
+MWC, 27-Jul-2016 10:53:35, SAR096, Masker=2-talker, thresh= 61, SD= 2.1909, bumps= 0
+  
+MWC, 27-Jul-2016 10:55:54, SAR096, Masker=2-talker SSN, thresh= 67.3333, SD= 4.274, bumps= 0
+  
+MWC, 27-Jul-2016 10:57:38, SAR096, Masker=2-talker SSN, thresh= 70, SD= 1.0954, bumps= 0
+  
+MWC, 28-Jul-2016 10:51:41, SAR057, Masker=2-talker SSN, thresh= 56.6667, SD= 4.274, bumps= 0
+  
+MWC, 28-Jul-2016 10:53:58, SAR057, Masker=2-talker, thresh= 55.3333, SD= 3.8816, bumps= 0
+  
+MWC, 28-Jul-2016 10:56:09, SAR057, Masker=2-talker, thresh= 58, SD= 3.2863, bumps= 0
+  
+MWC, 28-Jul-2016 10:58:39, SAR057, Masker=2-talker SSN, thresh= 63, SD= 2.5298, bumps= 0
+  
+MWC, 28-Jul-2016 11:00:55, SAR057, Masker=2-talker SSN, thresh= 66.3333, SD= 1.5055, bumps= 0
+  
+MWC, 01-Aug-2016 13:16:19, SAR074, Masker=2-talker SSN, thresh= 62.6667, SD= 1.5055, bumps= 0
+  
+MWC, 01-Aug-2016 13:18:37, SAR074, Masker=2-talker, thresh= 57.6667, SD= 2.0656, bumps= 0
+  
+MWC, 01-Aug-2016 13:21:53, SAR074, Masker=2-talker, thresh= 59, SD= 4, bumps= 0
+  
+MWC, 01-Aug-2016 13:24:06, SAR074, Masker=2-talker SSN, thresh= 56.3333, SD= 3.7238, bumps= 0
+  
+MWC, 01-Aug-2016 13:26:09, SAR074, Masker=2-talker SSN, thresh= 60.6667, SD= 2.9439, bumps= 0
+  
+MWC, 01-Aug-2016 15:14:04, SAR102, Masker=2-talker, thresh= 61, SD= 2.1909, bumps= 0
+  
+MWC, 01-Aug-2016 15:15:36, SAR102, Masker=2-talker SSN, thresh= 62, SD= 3.2863, bumps= 0
+  
+MWC, 01-Aug-2016 15:17:09, SAR102, Masker=2-talker SSN, thresh= 65, SD= 1.2649, bumps= 0
+  
+MWC, 01-Aug-2016 15:18:21, SAR102, Masker=2-talker, thresh= 62, SD= 1.0954, bumps= 0
+  
+MWC, 03-Aug-2016 13:24:05, SAR092, Masker=2-talker SSN, thresh= 64, SD= 1.7889, bumps= 0
+  
+MWC, 03-Aug-2016 13:25:42, SAR092, Masker=2-talker, thresh= 58.6667, SD= 5.7504, bumps= 0
+  
+MWC, 03-Aug-2016 13:27:37, SAR092, Masker=2-talker SSN, thresh= 67, SD= 1.0954, bumps= 0
+  
+MWC, 03-Aug-2016 13:29:30, SAR092, Masker=2-talker, thresh= 56, SD= 1.2649, bumps= 0
+  
+MWC, 03-Aug-2016 13:33:50, SAR091, Masker=2-talker, thresh= 60.6667, SD= 3.5024, bumps= 0
+  
+MWC, 03-Aug-2016 13:35:37, SAR091, Masker=2-talker SSN, thresh= 66.6667, SD= 1.633, bumps= 0
+  
+MWC, 03-Aug-2016 13:37:28, SAR091, Masker=2-talker SSN, thresh= 64.3333, SD= 5.5737, bumps= 0
+  
+MWC, 03-Aug-2016 13:39:05, SAR091, Masker=2-talker, thresh= 63.6667, SD= 0.8165, bumps= 0
+  
+MWC, 03-Aug-2016 13:51:30, SAR090, Masker=2-talker, thresh= 38, SD= 1.0954, bumps= 0
+  
+MWC, 03-Aug-2016 13:53:08, SAR090, Masker=2-talker SSN, thresh= 43.6667, SD= 2.0656, bumps= 0
+  
+MWC, 03-Aug-2016 13:55:12, SAR090, Masker=2-talker, thresh= 20.3333, SD= 1.5055, bumps= 0
+  
+MWC, 03-Aug-2016 13:57:07, SAR090, Masker=2-talker SSN, thresh= 6, SD= 1.0954, bumps= 0
+  
+MWC, 03-Aug-2016 13:59:49, SAR090, Masker=2-talker, thresh= 26.3333, SD= 9.2448, bumps= 0
+  
+MWC, 03-Aug-2016 14:02:17, SAR090, Masker=2-talker SSN, thresh= 18.6667, SD= 9.913, bumps= 0
+  
+MWC, 05-Aug-2016 11:33:01, SAR079, Masker=2-talker SSN, thresh= 58.3333, SD= 1.0328, bumps= 0
+  
+MWC, 05-Aug-2016 11:34:38, SAR079, Masker=2-talker, thresh= 52.6667, SD= 2.9439, bumps= 0
+  
+MWC, 05-Aug-2016 11:36:21, SAR079, Masker=2-talker, thresh= 46.6667, SD= 3.4448, bumps= 0
+  
+MWC, 05-Aug-2016 11:39:08, SAR079, Masker=2-talker SSN, thresh= 57.3333, SD= 4.8028, bumps= 0
+  
+MWC, 05-Aug-2016 11:41:53, SAR079, Masker=2-talker, thresh= 51.3333, SD= 1.5055, bumps= 0
+  
+MWC, 05-Aug-2016 14:37:58, SAR103, Masker=2-talker, thresh= 61.6667, SD= 2.0656, bumps= 0
+  
+MWC, 05-Aug-2016 14:39:40, SAR103, Masker=2-talker SSN, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 05-Aug-2016 14:41:17, SAR103, Masker=2-talker, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 05-Aug-2016 14:43:15, SAR103, Masker=2-talker SSN, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2016 13:08:18, SAR110, Masker=2-talker SSN, thresh= 67.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2016 13:10:00, SAR110  
+MWC, 08-Aug-2016 13:12:11, SAR110, Masker=2-talker SSN, thresh= 65.3333, SD= 2.9439, bumps= 0
+  
+MWC, 08-Aug-2016 13:13:54, SAR110, Masker=2-talker, thresh= 61.6667, SD= 3.0111, bumps= 0
+  
+MWC, 08-Aug-2016 15:00:03, SAR094, Masker=2-talker, thresh= 68, SD= 1.7889, bumps= 0
+  
+MWC, 08-Aug-2016 15:02:04, SAR094, Masker=2-talker SSN, thresh= 66.6667, SD= 1.0328, bumps= 0
+  
+MWC, 08-Aug-2016 15:03:49, SAR094, Masker=2-talker SSN, thresh= 63.6667, SD= 2.4221, bumps= 0
+  
+MWC, 08-Aug-2016 15:05:53, SAR094, Masker=2-talker, thresh= 63.3333, SD= 0.8165, bumps= 0
+  
+MWC, 08-Aug-2016 15:07:41, SAR094, Masker=2-talker, thresh= 61.3333, SD= 3.8816, bumps= 0
+  
+MWC, 08-Aug-2016 15:13:35, SAR093, Masker=2-talker SSN, thresh= 63, SD= 6.2929, bumps= 0
+  
+MWC, 08-Aug-2016 15:16:42, SAR093, Masker=2-talker, thresh= 58.6667, SD= 4.8442, bumps= 0
+  
+MWC, 08-Aug-2016 15:20:21, SAR093, Masker=2-talker, thresh= 62.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2016 15:22:30, SAR093, Masker=2-talker SSN, thresh= 64, SD= 2.5298, bumps= 0
+  
+MWC, 10-Aug-2016 11:06:34, SAR120, Masker=2-talker SSN, thresh= 65, SD= 3.7417, bumps= 0
+  
+MWC, 10-Aug-2016 11:10:05, SAR120, Masker=2-talker, thresh= 59, SD= 1.0954, bumps= 0
+  
+MWC, 10-Aug-2016 11:15:34, SAR120, Masker=2-talker SSN, thresh= 59.3333, SD= 2.9439, bumps= 0
+  
+MWC, 10-Aug-2016 11:17:51, SAR120, Masker=2-talker, thresh= 56.6667, SD= 1.0328, bumps= 0
+  
+MWC, 10-Aug-2016 11:20:48, SAR120, Masker=2-talker SSN, thresh= 54, SD= 2.5298, bumps= 0
+  
+MWC, 11-Aug-2016 15:45:57, SAR135, Masker=2-talker, thresh= 60.6667, SD= 0.8165, bumps= 0
+  
+MWC, 11-Aug-2016 15:47:56, SAR135, Masker=2-talker SSN, thresh= 66.6667, SD= 3.2042, bumps= 0
+  
+MWC, 11-Aug-2016 15:50:17, SAR135, Masker=2-talker, thresh= 64.6667, SD= 2.3381, bumps= 0
+  
+MWC, 11-Aug-2016 15:52:26, SAR135, Masker=2-talker SSN, thresh= 68.6667, SD= 1.5055, bumps= 0
+  
+MWC, 12-Aug-2016 12:02:39, SAR084, Masker=2-talker, thresh= 52.6667, SD= 1.5055, bumps= 0
+  
+MWC, 12-Aug-2016 12:04:47, SAR084, Masker=2-talker SSN, thresh= 59, SD= 1.2649, bumps= 0
+  
+MWC, 12-Aug-2016 12:06:25, SAR084, Masker=2-talker SSN, thresh= 54, SD= 1.0954, bumps= 0
+  
+MWC, 12-Aug-2016 12:08:04, SAR084, Masker=2-talker, thresh= 48.3333, SD= 1.633, bumps= 0
+  
+MWC, 17-Aug-2016 14:31:06, SAR123, Masker=2-talker SSN, thresh= 57.6667, SD= 2.7325, bumps= 0
+  
+MWC, 17-Aug-2016 14:32:37, SAR123, Masker=2-talker, thresh= 56.6667, SD= 1.5055, bumps= 0
+  
+MWC, 17-Aug-2016 14:34:14, SAR123, Masker=2-talker, thresh= 49.6667, SD= 1.0328, bumps= 0
+  
+MWC, 17-Aug-2016 14:35:56, SAR123, Masker=2-talker SSN, thresh= 55, SD= 2.5298, bumps= 0
+  
+MWC, 17-Aug-2016 14:37:47, SAR123, Masker=2-talker, thresh= 61.6667, SD= 1.633, bumps= 0
+  
+MWC, 18-Aug-2016 09:58:29, SAR134, Masker=2-talker SSN, thresh= 65.6667, SD= 3.0111, bumps= 0
+  
+MWC, 18-Aug-2016 10:00:05, SAR134, Masker=2-talker, thresh= 61.6667, SD= 1.0328, bumps= 0
+  
+MWC, 18-Aug-2016 10:02:17, SAR134, Masker=2-talker SSN, thresh= 67.6667, SD= 1.633, bumps= 0
+  
+MWC, 18-Aug-2016 10:04:24, SAR134, Masker=2-talker, thresh= 64.3333, SD= 2.0656, bumps= 0
+  
+MWC, 18-Aug-2016 16:40:54, SAR133, Masker=2-talker, thresh= 59.3333, SD= 2.3381, bumps= 0
+  
+MWC, 18-Aug-2016 16:42:40, SAR133, Masker=2-talker SSN, thresh= 65, SD= 1.2649, bumps= 0
+  
+MWC, 18-Aug-2016 16:44:26, SAR133, Masker=2-talker SSN, thresh= 68, SD= 2.0976, bumps= 0
+  
+MWC, 18-Aug-2016 16:46:11, SAR133, Masker=2-talker, thresh= 64.6667, SD= 0.8165, bumps= 0
+  
+MWC, 18-Aug-2016 16:48:34, SAR133, Masker=2-talker, thresh= 64.6667, SD= 1.9664, bumps= 0
+  
+MWC, 20-Aug-2016 11:25:42, SAR139, Masker=2-talker SSN, thresh= 8.6667, SD= 2.3381, bumps= 0
+  
+MWC, 20-Aug-2016 11:27:39, SAR139, Masker=2-talker, thresh= 25, SD= 1.2649, bumps= 0
+  
+MWC, 20-Aug-2016 11:29:59, SAR139, Masker=2-talker SSN, thresh= 10, SD= 2.1909, bumps= 0
+  
+MWC, 20-Aug-2016 11:33:01, SAR139, Masker=2-talker, thresh= 38, SD= 2.7568, bumps= 0
+  
+MWC, 20-Aug-2016 11:35:25, SAR139, Masker=2-talker, thresh= 28.3333, SD= 1.9664, bumps= 0
+  
+MWC, 22-Aug-2016 10:45:51, SAR145, Masker=2-talker SSN, thresh= 63.6667, SD= 2.6583, bumps= 0
+  
+MWC, 22-Aug-2016 10:48:23, SAR145, Masker=2-talker SSN, thresh= 68.3333, SD= 1.5055, bumps= 0
+  
+MWC, 22-Aug-2016 10:50:10, SAR145, Masker=2-talker, thresh= 57, SD= 1.0954, bumps= 0
+  
+MWC, 22-Aug-2016 10:51:59, SAR145, Masker=2-talker, thresh= 58.6667, SD= 1.0328, bumps= 0
+  
+MWC, 24-Aug-2016 12:16:44, SAR136, Masker=2-talker SSN, thresh= 65.3333, SD= 1.0328, bumps= 0
+  
+MWC, 24-Aug-2016 12:18:54, SAR136, Masker=2-talker, thresh= 59.3333, SD= 1.633, bumps= 0
+  
+MWC, 24-Aug-2016 12:20:55, SAR136, Masker=2-talker SSN, thresh= 68, SD= 1.0954, bumps= 0
+  
+MWC, 24-Aug-2016 12:24:01, SAR136, Masker=2-talker, thresh= 65, SD= 2.0976, bumps= 0
+  
+MWC, 24-Aug-2016 12:25:48, SAR136, Masker=2-talker, thresh= 61.3333, SD= 5.2789, bumps= 0
+  
+MWC, 24-Aug-2016 12:30:07, SAR137, Masker=2-talker, thresh= 60.3333, SD= 2.3381, bumps= 0
+  
+MWC, 24-Aug-2016 12:31:53, SAR137, Masker=2-talker SSN, thresh= 64.6667, SD= 1.0328, bumps= 0
+  
+MWC, 24-Aug-2016 12:34:24, SAR137, Masker=2-talker, thresh= 67.3333, SD= 5.164, bumps= 0
+  
+MWC, 24-Aug-2016 12:36:43, SAR137, Masker=2-talker SSN, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 24-Aug-2016 12:38:15, SAR137, Masker=2-talker, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 27-Aug-2016 11:40:22, SAR150, Masker=2-talker, thresh= 59.6667, SD= 2.0656, bumps= 0
+  
+MWC, 27-Aug-2016 11:43:18, SAR150, Masker=2-talker SSN, thresh= 61, SD= 1.7889, bumps= 0
+  
+MWC, 27-Aug-2016 11:45:27, SAR150, Masker=2-talker SSN, thresh= 61.6667, SD= 6.8605, bumps= 0
+  
+MWC, 27-Aug-2016 11:48:21, SAR150, Masker=2-talker, thresh= 54, SD= 1.2649, bumps= 0
+  
+MWC, 27-Aug-2016 11:50:08, SAR150, Masker=2-talker, thresh= 58, SD= 3.0984, bumps= 0
+  
+MWC, 31-Aug-2016 15:27:05, SAR149, Masker=2-talker, thresh= 64.6667, SD= 4.3205, bumps= 0
+  
+MWC, 31-Aug-2016 15:30:03, SAR149, Masker=2-talker SSN, thresh= 61.6667, SD= 3.4448, bumps= 0
+  
+MWC, 31-Aug-2016 15:31:48, SAR149, Masker=2-talker, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 31-Aug-2016 15:34:18, SAR149, Masker=2-talker SSN, thresh= 65, SD= 2.0976, bumps= 0
+  
+MWC, 03-Sep-2016 14:49:26, SAR132, Masker=2-talker SSN, thresh= 65.3333, SD= 1.0328, bumps= 0
+  
+MWC, 03-Sep-2016 14:51:36, SAR132, Masker=2-talker, thresh= 61, SD= 1.0954, bumps= 0
+  
+MWC, 03-Sep-2016 14:53:49, SAR132, Masker=2-talker, thresh= 61, SD= 3.2863, bumps= 0
+  
+MWC, 03-Sep-2016 14:56:06, SAR132, Masker=2-talker SSN, thresh= 69.3333, SD= 1.0328, bumps= 0
+  
+MWC, 03-Sep-2016 15:00:50, SAR131, Masker=2-talker, thresh= 54.3333, SD= 2.4221, bumps= 0
+  
+MWC, 03-Sep-2016 15:02:39, SAR131, Masker=2-talker SSN, thresh= 58.6667, SD= 2.9439, bumps= 0
+  
+MWC, 03-Sep-2016 15:04:25, SAR131, Masker=2-talker, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 03-Sep-2016 15:06:31, SAR131, Masker=2-talker SSN, thresh= 67, SD= 1.7889, bumps= 0
+  
+MWC, 03-Sep-2016 15:08:42, SAR131, Masker=2-talker SSN, thresh= 56, SD= 2.0976, bumps= 0
+  
+MWC, 03-Sep-2016 15:10:23, SAR131, Masker=2-talker, thresh= 61, SD= 3.7947, bumps= 0
+  
+MWC, 03-Sep-2016 15:14:21, SAR130, Masker=2-talker SSN, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 03-Sep-2016 15:16:46, SAR130, Masker=2-talker, thresh= 55.6667, SD= 5.7504, bumps= 0
+  
+MWC, 03-Sep-2016 15:19:09, SAR130, Masker=2-talker, thresh= 51.3333, SD= 3.4448, bumps= 0
+  
+MWC, 03-Sep-2016 15:20:58, SAR130, Masker=2-talker SSN, thresh= 62, SD= 1.0954, bumps= 0
+  
+MWC, 03-Sep-2016 15:23:06, SAR130, Masker=2-talker SSN, thresh= 65.3333, SD= 2.0656, bumps= 0
+  
+MWC, 06-Sep-2016 15:36:21, SAR154, Masker=2-talker, thresh= 60.6667, SD= 3.7238, bumps= 0
+  
+MWC, 06-Sep-2016 15:38:17, SAR154, Masker=2-talker SSN, thresh= 65.6667, SD= 1.9664, bumps= 0
+  
+MWC, 06-Sep-2016 15:40:15, SAR154, Masker=2-talker, thresh= 63.6667, SD= 3.4448, bumps= 0
+  
+MWC, 06-Sep-2016 15:42:56, SAR154, Masker=2-talker SSN, thresh= 64, SD= 2.7568, bumps= 0
+  
+MWC, 22-Oct-2016 16:13:56, SAR180, Masker=2-talker, thresh= 53.6667, SD= 2.0656, bumps= 0
+  
+MWC, 22-Oct-2016 16:16:13, SAR180, Masker=2-talker SSN, thresh= 53.3333, SD= 1.9664, bumps= 0
+  
+MWC, 22-Oct-2016 16:18:00, SAR180, Masker=2-talker SSN, thresh= 56, SD= 2.0976, bumps= 0
+  
+MWC, 22-Oct-2016 16:20:07, SAR180, Masker=2-talker, thresh= 61.6667, SD= 2.4221, bumps= 0
+  
+MWC, 22-Oct-2016 16:21:45, SAR180, Masker=2-talker, thresh= 62, SD= 1.0954, bumps= 0
+  
+MWC, 02-Nov-2016 15:34:27, SAR171, Masker=2-talker, thresh= 58.3333, SD= 1.5055, bumps= 0
+  
+MWC, 02-Nov-2016 15:36:25, SAR171, Masker=2-talker SSN, thresh= 55, SD= 3.7417, bumps= 0
+  
+MWC, 02-Nov-2016 15:38:36, SAR171, Masker=2-talker SSN, thresh= 66.3333, SD= 0.8165, bumps= 0
+  
+MWC, 02-Nov-2016 15:41:01, SAR171, Masker=2-talker, thresh= 63.3333, SD= 3.266, bumps= 0
+  
+MWC, 02-Nov-2016 15:44:00, SAR171, Masker=2-talker SSN, thresh= 68.3333, SD= 1.633, bumps= 0
+  
+MWC, 16-Nov-2016 10:32:58, SAR186, Masker=2-talker SSN, thresh= 68.3333, SD= 1.0328, bumps= 0
+  
+MWC, 16-Nov-2016 10:34:59, SAR186, Masker=2-talker, thresh= 63, SD= 1.2649, bumps= 0
+  
+MWC, 16-Nov-2016 10:37:08, SAR186, Masker=2-talker, thresh= 67.6667, SD= 1.0328, bumps= 0
+  
+MWC, 16-Nov-2016 10:39:00, SAR186, Masker=2-talker SSN, thresh= 66, SD= 3.5777, bumps= 0
+  
+MWC, 17-Nov-2016 09:00:10, SAR118, Masker=2-talker SSN, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 17-Nov-2016 09:02:05, SAR118, Masker=2-talker, thresh= 68.6667, SD= 1.5055, bumps= 0
+  
+MWC, 17-Nov-2016 09:03:45, SAR118, Masker=2-talker, thresh= 67, SD= 2.0976, bumps= 0
+  
+MWC, 17-Nov-2016 09:05:53, SAR118, Masker=2-talker SSN, thresh= 68.3333, SD= 2.4221, bumps= 0
+  
+MWC, 17-Nov-2016 09:07:53, SAR118, Masker=2-talker SSN, thresh= 64.6667, SD= 1.633, bumps= 0
+  
+MWC, 18-Nov-2016 10:03:54, SAR168, Masker=2-talker, thresh= 62.6667, SD= 4.9666, bumps= 0
+  
+MWC, 18-Nov-2016 10:05:55, SAR168, Masker=2-talker SSN, thresh= 65.3333, SD= 3.2042, bumps= 0
+  
+MWC, 18-Nov-2016 10:08:39, SAR168, Masker=2-talker, thresh= 68.3333, SD= 2.3381, bumps= 0
+  
+MWC, 18-Nov-2016 10:10:21, SAR168  
+MWC, 18-Nov-2016 10:12:39, SAR168, Masker=2-talker, thresh= 64.3333, SD= 1.5055, bumps= 0
+  
+MWC, 19-Nov-2016 12:19:53, SAR185, Masker=2-talker, thresh= 58.6667, SD= 2.3381, bumps= 0
+  
+MWC, 19-Nov-2016 12:21:33, SAR185, Masker=2-talker SSN, thresh= 55, SD= 1.7889, bumps= 0
+  
+MWC, 19-Nov-2016 12:23:36, SAR185, Masker=2-talker, thresh= 61.3333, SD= 2.9439, bumps= 0
+  
+MWC, 19-Nov-2016 12:26:11, SAR185, Masker=2-talker SSN, thresh= 64, SD= 2.4495, bumps= 0
+  
+MWC, 19-Nov-2016 12:28:07, SAR185, Masker=2-talker SSN, thresh= 58, SD= 1.2649, bumps= 0
+  
+MWC, 21-Nov-2016 15:20:14, SAR117, Masker=2-talker, thresh= 60.3333, SD= 2.0656, bumps= 0
+  
+MWC, 21-Nov-2016 15:22:52, SAr117, Masker=2-talker SSN, thresh= 66, SD= 3.2863, bumps= 0
+  
+MWC, 21-Nov-2016 15:26:17, SAR117, Masker=2-talker SSN, thresh= 65.6667, SD= 2.0656, bumps= 0
+  
+MWC, 21-Nov-2016 15:29:16, SAR117, Masker=2-talker, thresh= 64.3333, SD= 2.0656, bumps= 0
+  
+MWC, 05-Jan-2017 09:43:03, SAR157, Masker=2-talker SSN, thresh= 51.6667, SD= 2.3381, bumps= 0
+  
+MWC, 05-Jan-2017 09:44:58, SAR157, Masker=2-talker, thresh= 57, SD= 1.0954, bumps= 0
+  
+MWC, 05-Jan-2017 09:47:27, SAR157, Masker=2-talker SSN, thresh= 63.6667, SD= 2.3381, bumps= 0
+  
+MWC, 05-Jan-2017 09:49:50, SAR157, Masker=2-talker, thresh= 60, SD= 1.7889, bumps= 0
+  
+MWC, 05-Jan-2017 09:51:58, SAR157, Masker=2-talker SSN, thresh= 58.3333, SD= 6.0222, bumps= 0
+  
+MWC, 05-Jan-2017 09:54:44, SAR157, Masker=2-talker SSN, thresh= 63, SD= 2.1909, bumps= 0
+  
+MWC, 10-Jan-2017 14:09:44, SAR200, Masker=2-talker SSN, thresh= 57.3333, SD= 1.0328, bumps= 0
+  
+MWC, 10-Jan-2017 14:11:31, SAR200, Masker=2-talker, thresh= 60, SD= 2.8284, bumps= 0
+  
+MWC, 10-Jan-2017 14:13:33, SAR200, Masker=2-talker, thresh= 62, SD= 1.7889, bumps= 0
+  
+MWC, 10-Jan-2017 14:15:24, SAR200, Masker=2-talker SSN, thresh= 59.6667, SD= 1.5055, bumps= 0
+  
+MWC, 10-Jan-2017 14:17:53, SAR200, Masker=2-talker SSN, thresh= 59.6667, SD= 3.4448, bumps= 0
+  
+MWC, 26-Jan-2017 15:38:15, SAR125, Masker=2-talker SSN, thresh= 47, SD= 1.2649, bumps= 0
+  
+MWC, 26-Jan-2017 15:41:30, SAR125, Masker=2-talker, thresh= 46.3333, SD= 3.5024, bumps= 0
+  
+MWC, 26-Jan-2017 15:44:08, SAR125, Masker=2-talker, thresh= 49, SD= 4, bumps= 0
+  
+MWC, 26-Jan-2017 15:46:23, SAR125, Masker=2-talker SSN, thresh= 49, SD= 1.2649, bumps= 0
+  
+MWC, 10-Feb-2017 11:12:10, SAR213, Masker=2-talker SSN, thresh= 54.6667, SD= 1.5055, bumps= 0
+  
+MWC, 10-Feb-2017 11:14:13, SAR213, Masker=2-talker, thresh= 50, SD= 2.0976, bumps= 0
+  
+MWC, 10-Feb-2017 11:15:53, SAR213, Masker=2-talker, thresh= 53.6667, SD= 1.0328, bumps= 0
+  
+MWC, 10-Feb-2017 11:18:38, SAR213, Masker=2-talker SSN, thresh= 57.6667, SD= 2.4221, bumps= 0
+  
+MWC, 20-Feb-2017 10:12:47, SAR198, Masker=2-talker, thresh= 49.6667, SD= 4.6762, bumps= 0
+  
+MWC, 20-Feb-2017 10:15:18, SAR198, Masker=2-talker SSN, thresh= 54.6667, SD= 9.1579, bumps= 0
+  
+MWC, 20-Feb-2017 10:16:42, SAR198, Masker=2-talker, thresh= 50.3333, SD= 1.0328, bumps= 0
+  
+MWC, 20-Feb-2017 10:18:23, SAR198, Masker=2-talker SSN, thresh= 56, SD= 4.858, bumps= 0
+  
+MWC, 30-May-2017 12:21:34, SAR243, Masker=2-talker, thresh= 61.6667, SD= 5.2789, bumps= 0
+  
+MWC, 30-May-2017 12:24:41, SAR243, Masker=2-talker SSN, thresh= 71.3333, SD= 2.4221, bumps= 0
+  
+MWC, 30-May-2017 12:26:41, SAR243, Masker=2-talker SSN, thresh= 67.3333, SD= 2.9439, bumps= 0
+  
+MWC, 30-May-2017 12:28:42, SAr243, Masker=2-talker, thresh= 65.3333, SD= 1.5055, bumps= 0
+  
+MWC, 30-May-2017 12:30:41, SAr243, Masker=2-talker, thresh= 61.3333, SD= 3.8816, bumps= 0
+  
+MWC, 02-Jun-2017 09:42:07, SAR216, Masker=2-talker SSN, thresh= 64.6667, SD= 1.633, bumps= 0
+  
+MWC, 02-Jun-2017 09:43:51, SAR216, Masker=2-talker, thresh= 59, SD= 1.0954, bumps= 0
+  
+MWC, 02-Jun-2017 09:46:20, SAR216, Masker=2-talker SSN, thresh= 68, SD= 1.2649, bumps= 0
+  
+MWC, 02-Jun-2017 09:48:54, SAR216, Masker=2-talker, thresh= 62.6667, SD= 3.0111, bumps= 0
+  
+MWC, 29-Jun-2017 16:15:48, SAR278, Masker=2-talker, thresh= 46.6667, SD= 1.9664, bumps= 0
+  
+MWC, 29-Jun-2017 16:18:18, SAR278, Masker=2-talker SSN, thresh= 40, SD= 2.0976, bumps= 0
+  
+MWC, 29-Jun-2017 16:20:41, SAR287, Masker=2-talker, thresh= 43.3333, SD= 2.3381, bumps= 0
+  
+MWC, 29-Jun-2017 16:23:21, SAR278, Masker=2-talker SSN, thresh= 44, SD= 1.0954, bumps= 0
+  
+MWC, 05-Jul-2017 15:58:24,  SAR286, Masker=2-talker SSN, thresh= 64.3333, SD= 2.3381, bumps= 0
+  
+MWC, 05-Jul-2017 16:01:17, SAR286, Masker=2-talker, thresh= 60.3333, SD= 2.3381, bumps= 0
+  
+MWC, 05-Jul-2017 16:04:17, SAR286, Masker=2-talker, thresh= 60.6667, SD= 2.4221, bumps= 0
+  
+MWC, 05-Jul-2017 16:06:25, SAR286, Masker=2-talker SSN, thresh= 65.3333, SD= 2.0656, bumps= 0
+  
+MWC, 07-Jul-2017 15:05:09, SAR284, Masker=2-talker SSN, thresh= 50, SD= 2.0976, bumps= 0
+  
+MWC, 07-Jul-2017 15:07:01, SAR284, Masker=2-talker, thresh= 51.3333, SD= 0.8165, bumps= 0
+  
+MWC, 07-Jul-2017 15:09:16, SAR284, Masker=2-talker, thresh= 44.6667, SD= 4.4572, bumps= 0
+  
+MWC, 07-Jul-2017 15:10:43, SAR284, Masker=2-talker SSN, thresh= 50, SD= 1.0954, bumps= 0
+  
+MWC, 07-Jul-2017 15:12:53, SAR284, Masker=2-talker, thresh= 49.3333, SD= 2.3381, bumps= 0
+  
+MWC, 20-Jul-2017 15:03:55, SAR233, Masker=2-talker SSN, thresh= 64.3333, SD= 3.8816, bumps= 0
+  
+MWC, 20-Jul-2017 15:06:09, SAR233, Masker=2-talker, thresh= 63.6667, SD= 4.4572, bumps= 0
+  
+MWC, 20-Jul-2017 15:07:32, SAR233, Masker=2-talker, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 20-Jul-2017 15:08:55, SAR233, Masker=2-talker SSN, thresh= 63.6667, SD= 2.9439, bumps= 0
+  
+MWC, 20-Jul-2017 15:13:33, SAR051, Masker=2-talker, thresh= 63.3333, SD= 1.0328, bumps= 0
+  
+MWC, 20-Jul-2017 15:16:14, SAR051, Masker=2-talker SSN, thresh= 68, SD= 2.8284, bumps= 0
+  
+MWC, 20-Jul-2017 15:18:12, SAR051, Masker=2-talker SSN, thresh= 64.3333, SD= 0.8165, bumps= 0
+  
+MWC, 20-Jul-2017 15:19:51, SAR051, Masker=2-talker, thresh= 69.3333, SD= 1.5055, bumps= 0
+  
+MWC, 20-Jul-2017 15:21:36, SAR051, Masker=2-talker, thresh= 67.3333, SD= 2.3381, bumps= 0
+  
+MWC, 21-Jul-2017 10:33:13, SAR282, Masker=2-talker SSN, thresh= 65.6667, SD= 7.0899, bumps= 0
+  
+MWC, 21-Jul-2017 10:35:15, SAR282, Masker=2-talker, thresh= 64, SD= 1.7889, bumps= 0
+  
+MWC, 21-Jul-2017 10:36:52, SAR282, Masker=2-talker SSN, thresh= 60.3333, SD= 2.0656, bumps= 0
+  
+MWC, 21-Jul-2017 10:39:09, SAR282, Masker=2-talker, thresh= 62.6667, SD= 1.633, bumps= 0
+  
+MWC, 21-Jul-2017 10:41:03, SAR282, Masker=2-talker SSN, thresh= 66.6667, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2017 10:45:11, SAR281, Masker=2-talker, thresh= 51.3333, SD= 1.5055, bumps= 0
+  
+MWC, 21-Jul-2017 10:46:59, SAR281, Masker=2-talker SSN, thresh= 52.3333, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2017 10:49:23, SAR281, Masker=2-talker, thresh= 60.6667, SD= 5.2789, bumps= 0
+  
+MWC, 21-Jul-2017 10:51:21, SAR281, Masker=2-talker SSN, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 21-Jul-2017 10:53:01, SAR281, Masker=2-talker, thresh= 55.3333, SD= 1.0328, bumps= 0
+  
+MWC, 21-Jul-2017 10:55:42, SAR281, Masker=2-talker SSN, thresh= 60.3333, SD= 3.8816, bumps= 0
+  
+MWC, 24-Jul-2017 11:08:15, SAR293, Masker=2-talker SSN, thresh= 63.6667, SD= 1.0328, bumps= 0
+  
+MWC, 24-Jul-2017 11:11:58, SAR293, Masker=2-talker, thresh= 63.6667, SD= 1.0328, bumps= 0
+  
+MWC, 24-Jul-2017 11:14:45, SAr293, Masker=2-talker, thresh= 63, SD= 1.2649, bumps= 0
+  
+MWC, 24-Jul-2017 11:17:42, SAR293, Masker=2-talker SSN, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 24-Jul-2017 11:22:08, SAR292, Masker=2-talker, thresh= 62.6667, SD= 1.5055, bumps= 0
+  
+MWC, 24-Jul-2017 11:24:51, SAR292, Masker=2-talker SSN, thresh= 64, SD= 3.2863, bumps= 0
+  
+MWC, 24-Jul-2017 11:27:43, SAR292, Masker=2-talker, thresh= 46, SD= 4.5607, bumps= 0
+  
+MWC, 24-Jul-2017 11:30:26, SAR292, Masker=2-talker SSN, thresh= 67.3333, SD= 2.4221, bumps= 0
+  
+MWC, 24-Jul-2017 11:33:56, SAR292, Masker=2-talker, thresh= 60, SD= 1.7889, bumps= 0
+  
+MWC, 26-Jul-2017 15:20:51, SAR287, Masker=2-talker SSN, thresh= 53.6667, SD= 7.1181, bumps= 0
+  
+MWC, 26-Jul-2017 15:23:27, SAR287, Masker=2-talker, thresh= 56, SD= 3.2863, bumps= 0
+  
+MWC, 26-Jul-2017 15:26:24, SAR287, Masker=2-talker, thresh= 58, SD= 1.2649, bumps= 0
+  
+MWC, 26-Jul-2017 15:29:04, SAR287, Masker=2-talker SSN, thresh= 56.6667, SD= 1.0328, bumps= 0
+  
+MWC, 27-Jul-2017 15:07:05, SAR311, Masker=2-talker, thresh= 53, SD= 1.2649, bumps= 0
+  
+MWC, 27-Jul-2017 15:09:48, SAR311, Masker=2-talker SSN, thresh= 61.6667, SD= 1.633, bumps= 0
+  
+MWC, 27-Jul-2017 15:12:00, SAR311, Masker=2-talker, thresh= 57.6667, SD= 1.633, bumps= 0
+  
+MWC, 27-Jul-2017 15:14:02, SAR311, Masker=2-talker SSN, thresh= 64.3333, SD= 1.0328, bumps= 0
+  
+MWC, 31-Jul-2017 13:56:40, SAR321, Masker=2-talker, thresh= 52.6667, SD= 2.3381, bumps= 0
+  
+MWC, 31-Jul-2017 13:59:32, SAR321, Masker=2-talker SSN, thresh= 54.6667, SD= 2.6583, bumps= 0
+  
+MWC, 31-Jul-2017 14:02:06, SAR321, Masker=2-talker, thresh= 58.6667, SD= 1.5055, bumps= 0
+  
+MWC, 31-Jul-2017 14:05:31, SAR321, Masker=2-talker SSN, thresh= 45.6667, SD= 2.7325, bumps= 0
+  
+MWC, 31-Jul-2017 14:08:01, SAr321, Masker=2-talker, thresh= 51.6667, SD= 1.633, bumps= 0
+  
+MWC, 31-Jul-2017 14:09:59, SAr321, Masker=2-talker SSN, thresh= 50.6667, SD= 1.5055, bumps= 0
+  
+MWC, 02-Aug-2017 14:13:24, SAR312, Masker=2-talker SSN, thresh= 57, SD= 1.2649, bumps= 0
+  
+MWC, 02-Aug-2017 14:16:28, SAR312, Masker=2-talker, thresh= 51, SD= 5.0596, bumps= 0
+  
+MWC, 02-Aug-2017 14:20:09, SAR312, Masker=2-talker SSN, thresh= 52.6667, SD= 1.5055, bumps= 0
+  
+MWC, 02-Aug-2017 14:23:17, SAr312, Masker=2-talker, thresh= 50.6667, SD= 2.3381, bumps= 0
+  
+MWC, 04-Aug-2017 10:22:39, MF, Masker=2-talker SSN, thresh= 59, SD= 2.0976, bumps= 0
+  
+MWC, 04-Aug-2017 10:25:17, mf, Masker=2-talker, thresh= 60.3333, SD= 1.5055, bumps= 0
+  
+MWC, 04-Aug-2017 10:28:42, mf, Masker=2-talker, thresh= 64, SD= 1.2649, bumps= 0
+  
+MWC, 04-Aug-2017 10:30:32, mf, Masker=2-talker SSN, thresh= 64, SD= 1.2649, bumps= 0
+  
+MWC, 04-Aug-2017 10:32:47, mf, Masker=2-talker SSN, thresh= 69.6667, SD= 1.5055, bumps= 0
+  
+MWC, 11-Aug-2017 11:37:07, SAR324, Masker=2-talker SSN, thresh= 58, SD= 3.7947, bumps= 0
+  
+MWC, 11-Aug-2017 11:39:30, SAR324, Masker=2-talker, thresh= 58.3333, SD= 2.9439, bumps= 0
+  
+MWC, 11-Aug-2017 11:42:23, SAR324, Masker=2-talker SSN, thresh= 63, SD= 1.0954, bumps= 0
+  
+MWC, 11-Aug-2017 11:44:45, SAR324, Masker=2-talker, thresh= 57.9967, SD= 4.274, bumps= 0
+  
+MWC, 11-Aug-2017 11:48:16, SAR324, Masker=2-talker SSN, thresh= 59.3333, SD= 5.3166, bumps= 0
+  
+MWC, 11-Aug-2017 11:53:04, SAR323, Masker=2-talker, thresh= 57.6667, SD= 1.5055, bumps= 0
+  
+MWC, 11-Aug-2017 11:55:11, SAr323, Masker=2-talker SSN, thresh= 64, SD= 1.7889, bumps= 0
+  
+MWC, 11-Aug-2017 11:57:06, SAR323, Masker=2-talker SSN, thresh= 62, SD= 1.2649, bumps= 0
+  
+MWC, 11-Aug-2017 11:58:54, SAR323, Masker=2-talker, thresh= 64.67, SD= 1.0954, bumps= 0
+  
+MWC, 11-Aug-2017 12:01:23, SAr323, Masker=2-talker, thresh= 62.6667, SD= 3.0111, bumps= 0
+  
+MWC, 11-Aug-2017 13:07:17, SAR316, Masker=2-talker SSN, thresh= 65, SD= 7.2388, bumps= 0
+  
+MWC, 11-Aug-2017 13:09:29, SAR316, Masker=2-talker, thresh= 58.3333, SD= 3.6697, bumps= 0
+  
+MWC, 11-Aug-2017 13:11:33, SAR316, Masker=2-talker SSN, thresh= 66, SD= 1.0954, bumps= 0
+  
+MWC, 11-Aug-2017 13:14:06, SAR316, Masker=2-talker, thresh= 61, SD= 3.7947, bumps= 0
+  
+MWC, 11-Aug-2017 14:32:48, SAR322, Masker=2-talker, thresh= 59, SD= 4.1952, bumps= 0
+  
+MWC, 11-Aug-2017 14:35:27, SAR322, Masker=2-talker SSN, thresh= 58.3333, SD= 2.0656, bumps= 0
+  
+MWC, 11-Aug-2017 14:37:33, SAR322, Masker=2-talker, thresh= 59.3333, SD= 1.5055, bumps= 0
+  
+MWC, 11-Aug-2017 14:39:41, SAR322, Masker=2-talker SSN, thresh= 59.3333, SD= 1.0954, bumps= 0
+  
+MWC, 14-Aug-2017 08:48:41, SAR332, Masker=2-talker, thresh= 64.3333, SD= 5.2789, bumps= 0
+  
+MWC, 14-Aug-2017 08:50:54, SAR332, Masker=2-talker SSN, thresh= 63.6667, SD= 2.3381, bumps= 0
+  
+MWC, 14-Aug-2017 08:53:01, SAR332, Masker=2-talker, thresh= 62.9967, SD= 1.633, bumps= 0
+  
+MWC, 14-Aug-2017 08:55:00, SAR332, Masker=2-talker SSN, thresh= 65.0033, SD= 1.633, bumps= 0
+  
+MWC, 14-Aug-2017 08:59:32, SAR331, Masker=2-talker SSN, thresh= 61, SD= 2.7568, bumps= 0
+  
+MWC, 14-Aug-2017 09:01:53, SAR331, Masker=2-talker, thresh= 58, SD= 3.3466, bumps= 0
+  
+MWC, 14-Aug-2017 09:04:36, SAR331, Masker=2-talker, thresh= 64.3333, SD= 2.3381, bumps= 0
+  
+MWC, 14-Aug-2017 09:07:04, SAR331, Masker=2-talker SSN, thresh= 62.6667, SD= 1.5055, bumps= 0
+  
+MWC, 14-Aug-2017 09:09:39, SAR331, Masker=2-talker, thresh= 64.33, SD= 4.1952, bumps= 0
+  
+MWC, 18-Aug-2017 14:00:58, SAR182, Masker=2-talker SSN, thresh= 51.3333, SD= 1.633, bumps= 0
+  
+MWC, 18-Aug-2017 14:03:15, SAR182, Masker=2-talker, thresh= 59, SD= 2.0976, bumps= 0
+  
+MWC, 18-Aug-2017 14:04:34, SAR182, Masker=2-talker, thresh= 51.3333, SD= 1.0328, bumps= 0
+  
+MWC, 18-Aug-2017 14:07:14, SAR182, Masker=2-talker SSN, thresh= 47.6667, SD= 6.1536, bumps= 0
+  
+MWC, 18-Aug-2017 14:09:04, SAR182, Masker=2-talker, thresh= 51.6667, SD= 3.4448, bumps= 0
+  
+MWC, 18-Aug-2017 14:10:39, SAR182, Masker=2-talker SSN, thresh= 52.3333, SD= 2.0656, bumps= 0
+  
+MWC, 19-Aug-2017 09:28:25, SAR330, Masker=2-talker SSN, thresh= 61.3333, SD= 0.8165, bumps= 0
+  
+MWC, 19-Aug-2017 09:31:27, SAR330, Masker=2-talker, thresh= 58, SD= 2.0976, bumps= 0
+  
+MWC, 19-Aug-2017 09:34:20, SAR330, Masker=2-talker SSN, thresh= 58, SD= 1.2649, bumps= 0
+  
+MWC, 19-Aug-2017 09:35:57, SAR330, Masker=2-talker, thresh= 55, SD= 1.0954, bumps= 0
+  
+MWC, 25-Aug-2017 10:36:04, SAR273, Masker=2-talker, thresh= 56.3333, SD= 4.1312, bumps= 0
+  
+MWC, 25-Aug-2017 10:39:37, SAR273, Masker=2-talker SSN, thresh= 52.3333, SD= 3.5024, bumps= 0
+  
+MWC, 25-Aug-2017 10:42:29, SAR273, Masker=2-talker SSN, thresh= 51.6667, SD= 2.7325, bumps= 0
+  
+MWC, 25-Aug-2017 10:44:47, SAR273, Masker=2-talker, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 07-Oct-2017 14:16:02, SAR355, Masker=2-talker SSN, thresh= 46.6667, SD= 1.5055, bumps= 0
+  
+MWC, 07-Oct-2017 14:18:30, SAR355, Masker=2-talker, thresh= 61, SD= 1.2649, bumps= 0
+  
+MWC, 07-Oct-2017 14:20:18, SAR355, Masker=2-talker, thresh= 46.3333, SD= 2.9439, bumps= 0
+  
+MWC, 07-Oct-2017 14:22:14, SAR355, Masker=2-talker SSN, thresh= 52, SD= 2.7568, bumps= 0
+  
+MWC, 07-Oct-2017 14:23:33, SAR355, Masker=2-talker, thresh= 50.3333, SD= 1.0328, bumps= 0
+  
+MWC, 07-Oct-2017 14:25:12, SAR355, Masker=2-talker SSN, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 11-Oct-2017 15:25:28, SAR357, Masker=2-talker, thresh= 63.6667, SD= 2.3381, bumps= 0
+  
+MWC, 11-Oct-2017 15:28:03, SAR357, Masker=2-talker SSN, thresh= 67.3333, SD= 3.0111, bumps= 0
+  
+MWC, 11-Oct-2017 15:29:36, SAR357, Masker=2-talker, thresh= 64.3333, SD= 1.0328, bumps= 0
+  
+MWC, 11-Oct-2017 15:31:28, SAR357, Masker=2-talker SSN, thresh= 67.3333, SD= 1.5055, bumps= 0
+  
+MWC, 13-Oct-2017 15:33:28, SAR354, Masker=2-talker SSN, thresh= 59.3333, SD= 1.5055, bumps= 0
+  
+MWC, 13-Oct-2017 15:35:43, SAR354, Masker=2-talker, thresh= 52.3333, SD= 1.633, bumps= 0
+  
+MWC, 13-Oct-2017 15:38:44, SAR354, Masker=2-talker, thresh= 54, SD= 2.0976, bumps= 0
+  
+MWC, 13-Oct-2017 15:41:53, SAR354, Masker=2-talker SSN, thresh= 62.3333, SD= 1.5055, bumps= 0
+  
+MWC, 16-Oct-2017 09:55:03, SAR359, Masker=2-talker, thresh= 61.6667, SD= 1.0328, bumps= 0
+  
+MWC, 16-Oct-2017 09:59:59, SAR359, Masker=2-talker SSN, thresh= 61.3333, SD= 1.5055, bumps= 0
+  
+MWC, 16-Oct-2017 10:04:22, SAR359, Masker=2-talker, thresh= 61, SD= 4, bumps= 0
+  
+MWC, 16-Oct-2017 10:07:52, SAR359, Masker=2-talker SSN, thresh= 60, SD= 1.0954, bumps= 0
+  
+MWC, 10-Nov-2017 08:28:39, SAR363, Masker=2-talker, thresh= 57.3333, SD= 1.633, bumps= 0
+  
+MWC, 10-Nov-2017 08:30:51, SAR363, Masker=2-talker SSN, thresh= 60.6667, SD= 1.0328, bumps= 0
+  
+MWC, 10-Nov-2017 08:32:57, SAR363, Masker=2-talker SSN, thresh= 59, SD= 1.0954, bumps= 0
+  
+MWC, 10-Nov-2017 08:35:13, SAR363, Masker=2-talker, thresh= 54, SD= 4, bumps= 0
+  
+MWC, 13-Nov-2017 10:47:51, SAR318, Masker=2-talker, thresh= 54.3333, SD= 4.5019, bumps= 0
+  
+MWC, 13-Nov-2017 10:49:48, SAR318, Masker=2-talker SSN, thresh= 43.3333, SD= 2.3381, bumps= 0
+  
+MWC, 13-Nov-2017 10:51:50, SAR318, Masker=2-talker SSN, thresh= 49, SD= 2.1909, bumps= 0
+  
+MWC, 13-Nov-2017 10:54:48, SAR318, Masker=2-talker, thresh= 42.6667, SD= 7.9415, bumps= 0
+  
+MWC, 13-Nov-2017 10:56:55, SAR318, Masker=2-talker SSN, thresh= 49.3333, SD= 1.5055, bumps= 0
+  
+MWC, 13-Nov-2017 10:58:30, SAR318, Masker=2-talker, thresh= 53.6667, SD= 1.0328, bumps= 0
+  
+MWC, 16-Nov-2017 17:26:34, SAR368, Masker=2-talker, thresh= 58.6667, SD= 1.633, bumps= 0
+  
+MWC, 16-Nov-2017 17:27:52, SAR368, Masker=2-talker SSN, thresh= 56.6667, SD= 1.0328, bumps= 0
+  
+MWC, 16-Nov-2017 17:29:33, SAR368, Masker=2-talker, thresh= 59, SD= 1.0954, bumps= 0
+  
+MWC, 16-Nov-2017 17:31:27, SAR368, Masker=2-talker SSN, thresh= 60.3333, SD= 1.9664, bumps= 0
+  
+MWC, 22-Nov-2017 13:36:03, SAR365, Masker=2-talker SSN, thresh= 62.3333, SD= 1.5055, bumps= 0
+  
+MWC, 22-Nov-2017 13:38:42, SAR364, Masker=2-talker, thresh= 62.3333, SD= 1.5055, bumps= 0
+  
+MWC, 22-Nov-2017 13:41:06, SAR364, Masker=2-talker, thresh= 65.6667, SD= 1.9664, bumps= 0
+  
+MWC, 22-Nov-2017 13:43:44, SAR364, Masker=2-talker SSN, thresh= 65.3333, SD= 4.3205, bumps= 0
+  
+MWC, 30-Nov-2017 17:13:17, SAR152, Masker=2-talker, thresh= 60, SD= 1.2649, bumps= 0
+  
+MWC, 30-Nov-2017 17:16:00, SAR152, Masker=2-talker SSN, thresh= 65.3333, SD= 2.0656, bumps= 0
+  
+MWC, 30-Nov-2017 17:17:52, SAR152, Masker=2-talker, thresh= 61, SD= 1.0954, bumps= 0
+  
+MWC, 30-Nov-2017 17:19:50, SAR152, Masker=2-talker SSN, thresh= 67.3333, SD= 2.0656, bumps= 0
+  
+MWC, 14-Dec-2017 16:19:54, SAR316, Masker=2-talker SSN, thresh= 67.6667, SD= 1.5055, bumps= 0
+  
+MWC, 14-Dec-2017 16:22:34, SAR316, Masker=2-talker, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 14-Dec-2017 16:25:23, SAR316, Masker=2-talker, thresh= 65, SD= 1.7889, bumps= 0
+  
+MWC, 14-Dec-2017 16:27:19, SAR316, Masker=2-talker SSN, thresh= 64, SD= 2.4495, bumps= 0
+  
+MWC, 02-Jan-2018 10:48:50, SAR236, Masker=2-talker, thresh= 48, SD= 5.7619, bumps= 0
+  
+MWC, 02-Jan-2018 10:51:00, SAR236, Masker=2-talker SSN, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 02-Jan-2018 10:53:34, SAR236, Masker=2-talker, thresh= 64.3333, SD= 1.633, bumps= 0
+  
+MWC, 02-Jan-2018 10:55:20, SAR236, Masker=2-talker SSN, thresh= 57, SD= 4.1952, bumps= 0
+  
+MWC, 02-Jan-2018 10:57:15, SAR236, Masker=2-talker, thresh= 62.3333, SD= 2.0656, bumps= 0
+  
+MWC, 23-Jan-2018 16:20:11, SAR051, Masker=2-talker SSN, thresh= 63.3333, SD= 1.633, bumps= 0
+  
+MWC, 23-Jan-2018 16:22:14, SAR051, Masker=2-talker, thresh= 63, SD= 5.4772, bumps= 0
+  
+MWC, 23-Jan-2018 16:24:16, SAR051, Masker=2-talker SSN, thresh= 64.3333, SD= 2.3381, bumps= 0
+  
+MWC, 23-Jan-2018 16:26:01, SAR051, Masker=2-talker, thresh= 63.3333, SD= 1.0328, bumps= 0
+  
+MWC, 27-Jan-2018 12:57:47, SAR244, Masker=2-talker, thresh= 58.6667, SD= 1.5055, bumps= 0
+  
+MWC, 27-Jan-2018 13:01:03, SAR244, Masker=2-talker SSN, thresh= 59, SD= 2.8284, bumps= 0
+  
+MWC, 27-Jan-2018 13:02:45, SAR244, Masker=2-talker SSN, thresh= 61.6667, SD= 2.0656, bumps= 0
+  
+MWC, 27-Jan-2018 13:04:22, SAR244, Masker=2-talker, thresh= 58.6667, SD= 1.5055, bumps= 0
+  
+MWC, 09-Mar-2018 14:33:21, sar305, Masker=2-talker SSN, thresh= 59.6667, SD= 2.0656, bumps= 0
+  
+MWC, 09-Mar-2018 14:37:07, sar305, Masker=2-talker, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 09-Mar-2018 14:39:25, sar305, Masker=2-talker, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 09-Mar-2018 14:42:00, sar305, Masker=2-talker SSN, thresh= 55.3333, SD= 5.8538, bumps= 0
+  
+MWC, 05-May-2018 10:56:53, SAR250, Masker=2-talker, thresh= 57, SD= 3.0984, bumps= 0
+  
+MWC, 05-May-2018 10:59:11, SAR250, Masker=2-talker SSN, thresh= 61.6667, SD= 3.5024, bumps= 0
+  
+MWC, 05-May-2018 11:00:48, SAR250, Masker=2-talker SSN, thresh= 54, SD= 1.2649, bumps= 0
+  
+MWC, 05-May-2018 11:02:19, SAR250, Masker=2-talker, thresh= 54.3333, SD= 1.5055, bumps= 0
+  
+MWC, 05-May-2018 11:03:57, SAR250, Masker=2-talker SSN, thresh= 57.3333, SD= 2.0656, bumps= 0
+  
+MWC, 05-Jul-2018 11:09:33, SAR477, Masker=2-talker, thresh= 54.3333, SD= 1.5055, bumps= 0
+  
+MWC, 05-Jul-2018 11:11:25, SAR477, Masker=2-talker SSN, thresh= 58, SD= 1.2649, bumps= 0
+  
+MWC, 05-Jul-2018 11:14:02, sar477, Masker=2-talker, thresh= 62, SD= 1.7889, bumps= 0
+  
+MWC, 05-Jul-2018 11:16:17, SAR477, Masker=2-talker SSN, thresh= 61, SD= 2.0976, bumps= 0
+  
+MWC, 05-Jul-2018 11:17:50, SAR477, Masker=2-talker, thresh= 48.6667, SD= 1.0328, bumps= 0
+  
+MWC, 09-Jul-2018 10:48:50, SAR473, Masker=2-talker SSN, thresh= 55, SD= 2.5298, bumps= 0
+  
+MWC, 09-Jul-2018 10:50:37, SAR473, Masker=2-talker, thresh= 55.3333, SD= 5.8538, bumps= 0
+  
+MWC, 09-Jul-2018 10:52:08, SAR473, Masker=2-talker, thresh= 49.3333, SD= 1.5055, bumps= 0
+  
+MWC, 09-Jul-2018 10:53:59, SAR473, Masker=2-talker SSN, thresh= 57.6667, SD= 1.633, bumps= 0
+  
+MWC, 09-Jul-2018 10:56:28, SAR473, Masker=2-talker, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 09-Jul-2018 10:58:22, SAR473, Masker=2-talker SSN, thresh= 56.6667, SD= 1.5055, bumps= 0
+  
+MWC, 09-Jul-2018 11:00:23, SAR473, Masker=2-talker, thresh= 59.6667, SD= 1.0328, bumps= 0
+  
+MWC, 10-Jul-2018 10:05:00, SAR475, Masker=2-talker, thresh= 56, SD= 4.1473, bumps= 0
+  
+MWC, 10-Jul-2018 10:06:49, SAR475, Masker=2-talker SSN, thresh= 55.3333, SD= 0.8165, bumps= 0
+  
+MWC, 10-Jul-2018 10:08:28, SAR475, Masker=2-talker, thresh= 59, SD= 2.1909, bumps= 0
+  
+MWC, 10-Jul-2018 10:10:23, SAR475, Masker=2-talker SSN, thresh= 58.6667, SD= 2.9439, bumps= 0
+  
+MWC, 17-Jul-2018 12:08:21, test, Masker=2-talker, thresh= 32.6667, SD= 2.3381, bumps= 0
+  
+MWC, 17-Jul-2018 12:10:00, SAR481, Masker=2-talker SSN, thresh= 53.6667, SD= 3.5024, bumps= 0
+  
+MWC, 17-Jul-2018 12:11:53, SAR481, Masker=2-talker, thresh= 49.6667, SD= 2.4221, bumps= 0
+  
+MWC, 17-Jul-2018 12:13:47, SAR481, Masker=2-talker SSN, thresh= 53.6667, SD= 2.4221, bumps= 0
+  
+MWC, 17-Jul-2018 12:15:32, SAR481, Masker=2-talker, thresh= 56, SD= 2.0976, bumps= 0
+  
+MWC, 23-Jul-2018 15:17:44, SAR476, Masker=2-talker, thresh= 61, SD= 2.8284, bumps= 0
+  
+MWC, 23-Jul-2018 15:19:23, SAR476, Masker=2-talker SSN, thresh= 55, SD= 2.5298, bumps= 0
+  
+MWC, 23-Jul-2018 15:22:29, SAR476, Masker=2-talker SSN, thresh= 62, SD= 4.858, bumps= 0
+  
+MWC, 23-Jul-2018 15:24:26, SAR476, Masker=2-talker, thresh= 58.6667, SD= 1.9664, bumps= 0
+  
+MWC, 23-Jul-2018 15:26:09, SAR476, Masker=2-talker SSN, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 31-Jul-2018 13:17:52, SAR175, Masker=2-talker SSN, thresh= 54, SD= 4.5166, bumps= 0
+  
+MWC, 31-Jul-2018 13:19:42, SAR175, Masker=2-talker, thresh= 62, SD= 2.0976, bumps= 0
+  
+MWC, 31-Jul-2018 13:21:50, SAR175, Masker=2-talker, thresh= 56.6667, SD= 0.8165, bumps= 0
+  
+MWC, 31-Jul-2018 13:24:06, SAR175, Masker=2-talker SSN, thresh= 56.6667, SD= 2.3381, bumps= 0
+  
+MWC, 31-Jul-2018 13:25:36, SAR175, Masker=2-talker, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 03-Aug-2018 08:08:46, SAR144, Masker=2-talker SSN, thresh= 64, SD= 6.8118, bumps= 0
+  
+MWC, 03-Aug-2018 08:10:38, SAR144, Masker=2-talker, thresh= 60, SD= 5.933, bumps= 0
+  
+MWC, 03-Aug-2018 08:12:54, SAR144, Masker=2-talker, thresh= 66, SD= 2.1909, bumps= 0
+  
+MWC, 03-Aug-2018 08:14:38, SAR144, Masker=2-talker SSN, thresh= 62.6667, SD= 2.0656, bumps= 0
+  
+MWC, 03-Aug-2018 08:16:01, SAR144, Masker=2-talker, thresh= 60.3333, SD= 2.9439, bumps= 0
+  
+MWC, 03-Aug-2018 08:17:35, SAR144, Masker=2-talker SSN, thresh= 71.3333, SD= 1.0328, bumps= 0
+  
+MWC, 03-Aug-2018 08:19:12, SAR144, Masker=2-talker, thresh= 62, SD= 2.5298, bumps= 0
+  
+MWC, 03-Aug-2018 08:21:00, SAR144, Masker=2-talker SSN, thresh= 63.3333, SD= 2.4221, bumps= 0
+  
+MWC, 03-Aug-2018 08:25:11, SAR372, Masker=2-talker, thresh= 62.6667, SD= 2.4221, bumps= 0
+  
+MWC, 03-Aug-2018 08:26:32, SAR372, Masker=2-talker SSN, thresh= 52.3333, SD= 2.3381, bumps= 0
+  
+MWC, 03-Aug-2018 08:28:14, SAR372, Masker=2-talker, thresh= 64, SD= 2.5298, bumps= 0
+  
+MWC, 03-Aug-2018 08:30:21, SAR372, Masker=2-talker SSN, thresh= 63.6667, SD= 4.274, bumps= 0
+  
+MWC, 03-Aug-2018 08:32:13, SAR372, Masker=2-talker SSN, thresh= 68.6667, SD= 1.633, bumps= 0
+  
+MWC, 03-Aug-2018 08:33:42, SAR372, Masker=2-talker SSN, thresh= 58.3333, SD= 3.8816, bumps= 0
+  
+MWC, 07-Aug-2018 10:22:55, SAR335, Masker=2-talker, thresh= 56.6667, SD= 2.0656, bumps= 0
+  
+MWC, 07-Aug-2018 10:24:49, SAR335, Masker=2-talker SSN, thresh= 65.6667, SD= 2.3381, bumps= 0
+  
+MWC, 07-Aug-2018 10:27:06, SAR335, Masker=2-talker SSN, thresh= 65.6667, SD= 3.2042, bumps= 0
+  
+MWC, 07-Aug-2018 10:28:45, SAR335, Masker=2-talker, thresh= 55.6667, SD= 3.6697, bumps= 0
+  
+MWC, 07-Aug-2018 10:32:06, SAR336, Masker=2-talker SSN, thresh= 62.3333, SD= 4.274, bumps= 0
+  
+MWC, 07-Aug-2018 10:33:32, SAR336, Masker=2-talker, thresh= 59, SD= 2.0976, bumps= 0
+  
+MWC, 07-Aug-2018 10:35:26, SAR336, Masker=2-talker, thresh= 56, SD= 2.1909, bumps= 0
+  
+MWC, 07-Aug-2018 10:36:49, SAR336, Masker=2-talker SSN, thresh= 59.6667, SD= 2.3381, bumps= 0
+  
+MWC, 07-Aug-2018 16:34:05, SAR261, Masker=2-talker, thresh= 63, SD= 1.0954, bumps= 0
+  
+MWC, 07-Aug-2018 16:36:19, SAR261, Masker=2-talker SSN, thresh= 56, SD= 6.4498, bumps= 0
+  
+MWC, 07-Aug-2018 16:38:51, SAR261, Masker=2-talker, thresh= 64, SD= 2.5298, bumps= 0
+  
+MWC, 07-Aug-2018 16:40:52, SAR261, Masker=2-talker SSN, thresh= 63, SD= 7.4565, bumps= 0
+  
+MWC, 07-Aug-2018 16:42:36, SAR261, Masker=2-talker SSN, thresh= 64.6667, SD= 1.0328, bumps= 0
+  
+MWC, 08-Aug-2018 09:13:53, sar255, Masker=2-talker SSN, thresh= 63.6667, SD= 0.8165, bumps= 0
+  
+MWC, 08-Aug-2018 09:16:14, sar255, Masker=2-talker, thresh= 54, SD= 1.7889, bumps= 0
+  
+MWC, 08-Aug-2018 09:19:24, sar255, Masker=2-talker SSN, thresh= 62.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2018 09:21:51, sar255, Masker=2-talker, thresh= 54, SD= 1.7889, bumps= 0
+  
+MWC, 08-Aug-2018 12:35:04, SAR347, Masker=2-talker, thresh= 66, SD= 1.2649, bumps= 0
+  
+MWC, 08-Aug-2018 12:36:43, SAr347, Masker=2-talker SSN, thresh= 64.3333, SD= 4.274, bumps= 0
+  
+MWC, 08-Aug-2018 12:38:39, SAR347, Masker=2-talker SSN, thresh= 66.3333, SD= 2.4221, bumps= 0
+  
+MWC, 08-Aug-2018 12:39:46, SAR347, Masker=2-talker, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 08-Aug-2018 13:43:06, sar448, Masker=2-talker, thresh= 67.3333, SD= 1.0328, bumps= 0
+  
+MWC, 08-Aug-2018 13:45:16, sar448, Masker=2-talker SSN, thresh= 67.6667, SD= 2.3381, bumps= 0
+  
+MWC, 08-Aug-2018 13:48:19, sar448, Masker=2-talker, thresh= 65.3333, SD= 2.7325, bumps= 0
+  
+MWC, 08-Aug-2018 13:50:55, sar448, Masker=2-talker SSN, thresh= 64.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2018 14:04:31, SAR344, Masker=2-talker SSN, thresh= 69.3333, SD= 1.633, bumps= 0
+  
+MWC, 08-Aug-2018 14:05:58, SAR344, Masker=2-talker, thresh= 59.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Aug-2018 14:07:55, SAR344, Masker=2-talker, thresh= 64.6667, SD= 3.7238, bumps= 0
+  
+MWC, 08-Aug-2018 14:09:46, SAR344, Masker=2-talker SSN, thresh= 70.3333, SD= 1.9664, bumps= 0
+  
+MWC, 08-Aug-2018 14:43:55, sar345, Masker=2-talker, thresh= 54.6667, SD= 4.5019, bumps= 0
+  
+MWC, 08-Aug-2018 14:47:08, sar345, Masker=2-talker SSN, thresh= 64.3333, SD= 2.9439, bumps= 0
+  
+MWC, 08-Aug-2018 14:48:50, sar345, Masker=2-talker SSN, thresh= 60.3333, SD= 3.8816, bumps= 0
+  
+MWC, 08-Aug-2018 14:51:55, sar345, Masker=2-talker, thresh= 62, SD= 3.5777, bumps= 0
+  
+MWC, 08-Aug-2018 14:54:19, sar345, Masker=2-talker, thresh= 61.3333, SD= 1.0328, bumps= 0
+  
+MWC, 08-Aug-2018 15:29:51, SAR486, Masker=2-talker, thresh= 39.6667, SD= 3.7238, bumps= 0
+  
+MWC, 08-Aug-2018 15:31:23, SAR486, Masker=2-talker SSN, thresh= 47.3333, SD= 0.8165, bumps= 0
+  
+MWC, 08-Aug-2018 15:32:55, SAR486, Masker=2-talker SSN, thresh= 43, SD= 1.2649, bumps= 0
+  
+MWC, 08-Aug-2018 15:34:35, SAR486, Masker=2-talker, thresh= 49.6667, SD= 1.0328, bumps= 0
+  
+MWC, 08-Aug-2018 15:35:54, SAR486, Masker=2-talker, thresh= 49, SD= 1.2649, bumps= 0
+  
+MWC, 08-Aug-2018 15:37:47, SAR486, Masker=2-talker SSN, thresh= 55.3333, SD= 2.9439, bumps= 0
+  
+MWC, 09-Aug-2018 13:12:01, SAR488, Masker=2-talker SSN, thresh= 62, SD= 2.4495, bumps= 0
+  
+MWC, 09-Aug-2018 13:13:31, SAR488, Masker=2-talker, thresh= 53.6667, SD= 3.0111, bumps= 0
+  
+MWC, 09-Aug-2018 13:14:52, SAR488, Masker=2-talker, thresh= 55, SD= 1.2649, bumps= 0
+  
+MWC, 09-Aug-2018 13:16:45, SAR488, Masker=2-talker SSN, thresh= 63.3333, SD= 2.0656, bumps= 0
+  
+MWC, 09-Aug-2018 13:20:34, SAR489, Masker=2-talker, thresh= 52.6667, SD= 2.3381, bumps= 0
+  
+MWC, 09-Aug-2018 13:22:04, SAR489, Masker=2-talker SSN, thresh= 56.6667, SD= 2.9439, bumps= 0
+  
+MWC, 09-Aug-2018 13:23:50, SAR489, Masker=2-talker SSN, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 09-Aug-2018 13:25:23, SAR489, Masker=2-talker, thresh= 57, SD= 1.7889, bumps= 0
+  
+MWC, 09-Aug-2018 13:27:09, SAR489, Masker=2-talker SSN, thresh= 61.3333, SD= 3.8816, bumps= 0
+  
+MWC, 10-Aug-2018 13:25:06, SAR485, Masker=2-talker SSN, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 10-Aug-2018 13:26:28, SAR485, Masker=2-talker, thresh= 50, SD= 3.7417, bumps= 0
+  
+MWC, 10-Aug-2018 13:28:41, AR485, Masker=2-talker, thresh= 56.6667, SD= 2.3381, bumps= 0
+  
+MWC, 10-Aug-2018 13:30:41, SAR485, Masker=2-talker SSN, thresh= 62.3333, SD= 2.0656, bumps= 0
+  
+MWC, 10-Aug-2018 13:32:22, SAR485, Masker=2-talker, thresh= 54, SD= 2.0976, bumps= 0
+  
+MWC, 10-Aug-2018 13:34:53, SAR485, Masker=2-talker SSN, thresh= 60.6667, SD= 2.9439, bumps= 0
+  
+MWC, 11-Aug-2018 12:02:13, SAR484, Masker=2-talker SSN, thresh= 61.6667, SD= 2.4221, bumps= 0
+  
+MWC, 11-Aug-2018 12:03:18, SAR484, Masker=2-talker, thresh= 50.6667, SD= 2.9439, bumps= 0
+  
+MWC, 11-Aug-2018 12:04:41, SAR484, Masker=2-talker SSN, thresh= 57, SD= 1.0954, bumps= 0
+  
+MWC, 11-Aug-2018 12:05:54, SAR484, Masker=2-talker, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 11-Aug-2018 12:07:26, SAR484, Masker=2-talker, thresh= 55.6667, SD= 3.8816, bumps= 0
+  
+MWC, 30-Aug-2018 12:13:23, SAR353, Masker=2-talker, thresh= 67.6667, SD= 2.3381, bumps= 0
+  
+MWC, 30-Aug-2018 12:14:51, SAR353, Masker=2-talker SSN, thresh= 66.3333, SD= 1.5055, bumps= 0
+  
+MWC, 30-Aug-2018 12:16:26, SAR353, Masker=2-talker SSN, thresh= 68.3333, SD= 1.633, bumps= 0
+  
+MWC, 30-Aug-2018 12:17:58, SAR353, Masker=2-talker, thresh= 68.3333, SD= 3.7238, bumps= 0
+  
+MWC, 12-Nov-2018 11:03:38, APW, Masker=Experiment 3, thresh= NaN, SD= NaN, bumps= 0
+  
+MWC, 05-Dec-2018 10:31:09, APW, Masker=Experiment 3, thresh= 54.6667, SD= 1.0328, bumps= 0
+  
+MWC, 07-Dec-2018 10:32:46, EC, Masker=Experiment 2, thresh= 61.6667, SD= 2.7325, bumps= 0
+  
+  
+MWC, 10-Dec-2018 10:35:15, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 10:40:06, APW, Masker=Experiment 2, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 10:47:26, APW, Masker=Experiment 3, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 10:53:33, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:08:26, APW, Masker=Experiment 1, thresh= 58, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:13:01, APW, Masker=Experiment 1, thresh= 56, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:28:37, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:37:07, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:50:02, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 10-Dec-2018 11:56:16, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 10:48:48, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 10:56:41, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:04:07, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:09:21, APW, Masker=Experiment 2, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:17:36, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:21:07, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:38:05, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:45:58, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 11:49:35, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 12:13:51, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 12:21:29, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 12:27:48, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 12:46:16, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 12:53:22, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 13:09:13, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 13:14:05, APW, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 12-Dec-2018 13:19:03, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:22:50, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:30:01, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:35:03, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:39:36, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:49:46, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 13:53:10, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:02:14, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:04:55, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:10:23, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:15:08, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:28:45, APW, Masker=Experiment 2, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:31:14, APW, Masker=Experiment 2, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:34:13, APW, Masker=Experiment 2, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:48:56, APW, Masker=Experiment 1, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:54:21, APW, Masker=Experiment 2, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 12-Dec-2018 14:58:34, APW, Masker=Experiment 2, thresh= 52, SD= 1.4142, bumps= 0
+  
+MWC, 02-Jan-2019 13:49:34, APW, Masker=Experiment 3, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 25-Jan-2019 11:35:34, EKC, Masker=Experiment 3, thresh= 55, SD= 1.7889, bumps= 0
+  
+MWC, 25-Jan-2019 13:08:04, EKC, Masker=Experiment 3, thresh= 55, SD= 1.7889, bumps= 0
+  
+MWC, 25-Jan-2019 13:17:25, EKC, Masker=Experiment 1, thresh= 46, SD= 1.0954, bumps= 0
+  
+MWC, 25-Jan-2019 13:28:21, practice, Masker=Experiment 2, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 25-Jan-2019 18:19:56, JTP, Masker=Experiment 1, thresh= 63, SD= 1.2649, bumps= 0
+  
+MWC, 25-Jan-2019 18:28:04, JTP, Masker=Experiment 2, thresh= 66, SD= 2.7568, bumps= 0
+  
+MWC, 25-Jan-2019 18:35:34, JTP, Masker=Experiment 3, thresh= 51, SD= 1.2649, bumps= 0
+  
+MWC, 28-Jan-2019 13:06:27, EKC, Masker=Experiment 1, thresh= 52, SD= 1.0954, bumps= 0
+  
+MWC, 28-Jan-2019 14:45:32, test, Masker=Experiment 2, thresh= 55.3333, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jan-2019 14:14:50, JLM, Masker=Experiment 1, thresh= 62.3333, SD= 1.633, bumps= 0
+  
+MWC, 29-Jan-2019 14:22:19, JLM, Masker=Experiment 2, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jan-2019 14:31:15, JLM, Masker=Experiment 3, thresh= 61.3333, SD= 1.5055, bumps= 0
+  
+MWC, 01-Feb-2019 10:56:37, EKC, Masker=Experiment 1, thresh= 69, SD= 1.2649, bumps= 0
+  
+MWC, 02-Feb-2019 10:57:29, JLM, Masker=Experiment 1, thresh= 65.6667, SD= 5.164, bumps= 0
+  
+MWC, 02-Feb-2019 11:20:34, JLM, Masker=Experiment 3, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 02-Feb-2019 13:47:02, JLM(2), Masker=Experiment 1, thresh= 59, SD= 5.0596, bumps= 0
+  
+MWC, 03-Feb-2019 09:43:43, JLM(2), Masker=Experiment 2, thresh= 55.6667, SD= 1.633, bumps= 0
+  
+MWC, 03-Feb-2019 09:51:32, jlm, Masker=Experiment 1, thresh= 47.3333, SD= 1.5055, bumps= 0
+  
+MWC, 03-Feb-2019 09:57:14, jlm, Masker=Experiment 3, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 03-Feb-2019 13:20:52, tes, Masker=Experiment 2, thresh= 71.3333, SD= 1.5055, bumps= 0
+  
+MWC, 03-Feb-2019 13:53:28, test, Masker=Experiment 2, thresh= 69.3333, SD= 2.9439, bumps= 0
+  
+MWC, 04-Feb-2019 11:41:12, jlm, Masker=Experiment 1, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 04-Feb-2019 11:52:26, jlm, Masker=Experiment 2, thresh= 55, SD= 1.7889, bumps= 0
+  
+MWC, 04-Feb-2019 11:58:37, jlm, Masker=Experiment 3, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 06-Feb-2019 13:43:19, EKC, Masker=Experiment 1, thresh= 60.3333, SD= 2.0656, bumps= 0
+  
+MWC, 06-Feb-2019 13:49:47, EKC, Masker=Experiment 2, thresh= 51.6667, SD= 3.5024, bumps= 0
+  
+MWC, 06-Feb-2019 13:54:57, EKC, Masker=Experiment 3, thresh= 46.3333, SD= 1.633, bumps= 0
+  
+MWC, 08-Feb-2019 09:00:58, EKC, Masker=Experiment 1, thresh= 59.3333, SD= 2.3381, bumps= 0
+  
+MWC, 08-Feb-2019 09:06:18, ekc, Masker=Experiment 2, thresh= 56.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Feb-2019 09:11:12, ekc, Masker=Experiment 3, thresh= 54.6667, SD= 3.4448, bumps= 0
+  
+MWC, 12-Feb-2019 18:55:30, jlm, Masker=Experiment 1, thresh= 71.3333, SD= 2.9439, bumps= 0
+  
+MWC, 12-Feb-2019 19:00:32, jlm, Masker=Experiment 2, thresh= 61.6667, SD= 1.0328, bumps= 0
+  
+MWC, 12-Feb-2019 19:06:55, jlm, Masker=Experiment 3, thresh= 66.3333, SD= 2.0656, bumps= 0
+  
+MWC, 13-Feb-2019 11:50:41, JTP, Masker=Experiment 1, thresh= 63, SD= 3.7947, bumps= 0
+  
+MWC, 13-Feb-2019 11:57:51, JTP, Masker=Experiment 2, thresh= 64.6667, SD= 1.5055, bumps= 0
+  
+MWC, 13-Feb-2019 12:05:54, JTP, Masker=Experiment 3, thresh= 54, SD= 4.5166, bumps= 0
+  
+MWC, 15-Feb-2019 14:55:55, test, Masker=Experiment 3, thresh= 60.3333, SD= 3.266, bumps= 0
+  
+MWC, 15-Feb-2019 15:25:44, remake, Masker=Experiment 2, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 15-Feb-2019 15:31:33, remake, Masker=Experiment 3, thresh= 58.3333, SD= 2.0656, bumps= 0
+  
+MWC, 15-Feb-2019 15:38:46, remake, Masker=Experiment 2, thresh= 62, SD= 6.0332, bumps= 0
+  
+MWC, 21-Feb-2019 18:16:29, JTP, Masker=Experiment 1, thresh= 64, SD= 2.7568, bumps= 0
+  
+MWC, 21-Feb-2019 18:22:26, JTP, Masker=Experiment 2, thresh= 56.3333, SD= 2.0656, bumps= 0
+  
+MWC, 21-Feb-2019 18:28:22, JTP, Masker=Experiment 3, thresh= 56.6667, SD= 0.8165, bumps= 0
+  
+MWC, 23-Feb-2019 10:28:34, JTP, Masker=Experiment 1, thresh= 59.6667, SD= 8.165, bumps= 0
+  
+MWC, 23-Feb-2019 10:37:12, JTP, Masker=Experiment 2, thresh= 64.3333, SD= 1.633, bumps= 0
+  
+MWC, 23-Feb-2019 10:42:49, JTP, Masker=Experiment 3, thresh= 55, SD= 1.2649, bumps= 0
+  
+MWC, 23-Feb-2019 11:10:24, JLM, Masker=Experiment 1, thresh= 65, SD= 4, bumps= 0
+  
+MWC, 23-Feb-2019 11:18:45, JLM, Masker=Experiment 2, thresh= 74, SD= 4.1952, bumps= 1
+  
+MWC, 23-Feb-2019 11:26:25, JLM, Masker=Experiment 3, thresh= 69, SD= 2.5298, bumps= 0
+  
+MWC, 23-Feb-2019 16:35:59, JLM, Masker=Experiment 1, thresh= 69.3333, SD= 2.3381, bumps= 0
+  
+MWC, 23-Feb-2019 16:41:34, JLM, Masker=Experiment 2, thresh= 62, SD= 1.0954, bumps= 0
+  
+MWC, 23-Feb-2019 16:47:38, JLM, Masker=Experiment 3, thresh= 52.6667, SD= 2.9439, bumps= 0
+  
+MWC, 26-Feb-2019 14:34:06, JLM, Masker=Experiment 1, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 26-Feb-2019 14:40:39, JLM, Masker=Experiment 2, thresh= 64.6667, SD= 1.5055, bumps= 0
+  
+MWC, 26-Feb-2019 14:46:32, jlm, Masker=Experiment 3, thresh= 60, SD= 2.0976, bumps= 0
+  
+MWC, 05-Mar-2019 16:16:57, JLM, Masker=Experiment 1, thresh= 68.3333, SD= 3.266, bumps= 0
+  
+MWC, 05-Mar-2019 16:26:09, JLM, Masker=Experiment 2, thresh= 58.3333, SD= 1.633, bumps= 0
+  
+MWC, 05-Mar-2019 16:32:19, JLM, Masker=Experiment 3, thresh= 54, SD= 1.0954, bumps= 0
+  
+MWC, 08-Mar-2019 10:18:25, JTP (recreated EKC), Masker=Experiment 1, thresh= 63, SD= 3.7947, bumps= 0
+  
+MWC, 08-Mar-2019 10:26:22, JTP (EKC recreate), Masker=Experiment 1, thresh= 63.3333, SD= 4.274, bumps= 0
+  
+MWC, 08-Mar-2019 10:34:53, JTP (EKC recreate), Masker=Experiment 2, thresh= 65, SD= 1.7889, bumps= 0
+  
+MWC, 08-Mar-2019 10:43:17, JTP (EKC recreate), Masker=Experiment 3, thresh= 57, SD= 3.0984, bumps= 0
+  
+MWC, 08-Mar-2019 10:52:15, JLM (EKC recreate), Masker=Experiment 1, thresh= 54.3333, SD= 2.4221, bumps= 0
+  
+MWC, 08-Mar-2019 11:00:17, JLM (EKC recreate), Masker=Experiment 2, thresh= 73.3333, SD= 3.8816, bumps= 0
+  
+MWC, 08-Mar-2019 11:06:28, JLM (EKC recreate), Masker=Experiment 3, thresh= 64, SD= 2.0976, bumps= 0
+  
+MWC, 08-Mar-2019 11:14:35, EKC (recreate), Masker=Experiment 1, thresh= 63.3333, SD= 4.274, bumps= 0
+  
+MWC, 08-Mar-2019 11:21:16, EKC, Masker=Experiment 2, thresh= 59.6667, SD= 2.0656, bumps= 0
+  
+MWC, 08-Mar-2019 11:28:49, EKC (recreate), Masker=Experiment 3, thresh= 55.6667, SD= 5.0067, bumps= 0
+  
+MWC, 08-Mar-2019 11:35:40, JLM (EKC recreate), Masker=Experiment 1, thresh= 54.3333, SD= 1.633, bumps= 0
+  
+MWC, 08-Mar-2019 11:45:14, JLM (EKC recreate), Masker=Experiment 2, thresh= 70.3333, SD= 6.0222, bumps= 0
+  
+MWC, 08-Mar-2019 11:55:02, EKC (recreate), Masker=Experiment 2, thresh= 51, SD= 1.7889, bumps= 0
+  
+MWC, 08-Mar-2019 12:01:50, EKC (recreate), Masker=Experiment 3, thresh= 48.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-Mar-2019 12:08:42, JLM (EKC recreate), Masker=Experiment 2, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Mar-2019 12:21:41, JLM (EKC recreate), Masker=Experiment 2, thresh= 63.3333, SD= 4.274, bumps= 0
+  
+MWC, 11-Mar-2019 14:23:13, JLM, Masker=Experiment 1, thresh= 63.6667, SD= 2.4221, bumps= 0
+  
+MWC, 11-Mar-2019 14:29:02, jlm, Masker=Experiment 2, thresh= 67.3333, SD= 1.5055, bumps= 0
+  
+MWC, 11-Mar-2019 14:35:15, jlm, Masker=Experiment 3, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 19-Mar-2019 13:14:04, JLM, Masker=Experiment 1, thresh= 54.3333, SD= 1.633, bumps= 0
+  
+MWC, 19-Mar-2019 13:18:43, JLM, Masker=Experiment 2, thresh= 57, SD= 1.2649, bumps= 0
+  
+MWC, 19-Mar-2019 13:26:53, jlm, Masker=Experiment 3, thresh= 53, SD= 5.2154, bumps= 0
+  
+MWC, 20-Mar-2019 12:38:29, JTP, Masker=Experiment 1, thresh= 54.6667, SD= 1.9664, bumps= 0
+  
+MWC, 20-Mar-2019 12:46:33, JTP, Masker=Experiment 2, thresh= 64.6667, SD= 2.3381, bumps= 0
+  
+MWC, 20-Mar-2019 12:55:09, JTP, Masker=Experiment 3, thresh= 46, SD= 1.6733, bumps= 0
+  
+MWC, 20-Mar-2019 15:01:34, JTP, Masker=Experiment 1, thresh= 65.6667, SD= 3.266, bumps= 0
+  
+MWC, 20-Mar-2019 15:08:36, JTP, Masker=Experiment 2, thresh= 61, SD= 5.2154, bumps= 0
+  
+MWC, 20-Mar-2019 15:12:57, JTP, Masker=Experiment 3, thresh= 48, SD= 1.0954, bumps= 0
+  
+MWC, 21-Mar-2019 12:23:11, JTP, Masker=Experiment 1, thresh= 59, SD= 1.2649, bumps= 0
+  
+MWC, 21-Mar-2019 12:28:59, JTP, Masker=Experiment 2, thresh= 62.6667, SD= 2.3381, bumps= 0
+  
+MWC, 21-Mar-2019 12:34:05, JTP, Masker=Experiment 3, thresh= 52.6667, SD= 1.5055, bumps= 0
+  
+MWC, 30-Mar-2019 11:26:37, JTP, Masker=Experiment 1, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 30-Mar-2019 11:34:29, JTP, Masker=Experiment 2, thresh= 55.3333, SD= 1.5055, bumps= 0
+  
+MWC, 30-Mar-2019 11:43:09, JTP, Masker=Experiment 3, thresh= 58.6667, SD= 2.3381, bumps= 0
+  
+MWC, 10-Apr-2019 13:41:58, EKC, Masker=Experiment 1, thresh= 67, SD= 1.7889, bumps= 0
+  
+MWC, 10-Apr-2019 13:47:47, EKC, Masker=Experiment 2, thresh= 57.6667, SD= 2.7325, bumps= 0
+  
+MWC, 10-Apr-2019 13:54:25, EKC, Masker=Experiment 3, thresh= 65.6667, SD= 6.2823, bumps= 0
+  
+MWC, 10-Apr-2019 13:59:01, EKC, Masker=Experiment 1, thresh= 59.6667, SD= 1.0328, bumps= 0
+  
+MWC, 11-Apr-2019 16:56:11, JTP, Masker=Experiment 1, thresh= 65, SD= 3.7947, bumps= 0
+  
+MWC, 11-Apr-2019 17:04:43, JTP, Masker=Experiment 2, thresh= 53, SD= 6.9282, bumps= 0
+  
+MWC, 11-Apr-2019 17:12:23, JTP, Masker=Experiment 3, thresh= 65.3333, SD= 1.9664, bumps= 0
+  
+MWC, 13-Apr-2019 12:50:34, JLM, Masker=Experiment 1, thresh= 68, SD= 3.7417, bumps= 0
+  
+MWC, 13-Apr-2019 12:58:02, JLM, Masker=Experiment 2, thresh= 62.6667, SD= 2.3381, bumps= 0
+  
+MWC, 13-Apr-2019 13:07:57, jlm, Masker=Experiment 3, thresh= 65.6667, SD= 1.633, bumps= 0
+  
+MWC, 15-Apr-2019 11:01:29, JTP (EKC recreated), Masker=Experiment 1, thresh= 63, SD= 11.7303, bumps= 0
+  
+MWC, 15-Apr-2019 11:30:04, JTP (EKC recreated), Masker=Experiment 2, thresh= 76.3333, SD= 4.2269, bumps= 2
+  
+MWC, 17-Apr-2019 13:44:03, JTP (EKC recreated), Masker=Experiment 3, thresh= 53.6667, SD= 1.633, bumps= 0
+  
+MWC, 17-Apr-2019 13:53:17, JLM (EKC recreated), Masker=Experiment 3, thresh= 50.6667, SD= 1.5055, bumps= 0
+  
+MWC, 17-Apr-2019 14:02:46, JLM (EKC recreated), Masker=Experiment 1, thresh= 66.6667, SD= 3.8816, bumps= 0
+  
+MWC, 17-Apr-2019 14:10:23, JLM (EKC recreated), Masker=Experiment 2, thresh= 65.3333, SD= 1.5055, bumps= 0
+  
+MWC, 17-Apr-2019 14:16:21, JTP (EKC recreated), Masker=Experiment 3, thresh= 59.6667, SD= 1.633, bumps= 0
+  
+MWC, 17-Apr-2019 14:31:34, JTP (EKC recreated), Masker=Experiment 1, thresh= 75.6667, SD= 2.3381, bumps= 3
+  
+MWC, 17-Apr-2019 14:41:48, JTP (EKC recreated), Masker=Experiment 2, thresh= 79, SD= 1.0954, bumps= 7
+  
+MWC, 17-Apr-2019 14:49:28, JTP (EKC recreated), Masker=Experiment 3, thresh= 67.3333, SD= 1.9664, bumps= 0
+  
+MWC, 19-Apr-2019 16:59:18, EKC, Masker=Experiment 1, thresh= 60, SD= 1.0954, bumps= 0
+  
+MWC, 19-Apr-2019 17:05:26, EKC, Masker=Experiment 2, thresh= 61.6667, SD= 4.1312, bumps= 0
+  
+MWC, 19-Apr-2019 17:10:10, EKC, Masker=Experiment 3, thresh= 60.3333, SD= 2.4221, bumps= 0
+  
+MWC, 20-Apr-2019 13:06:57, JLM, Masker=Experiment 1, thresh= 62, SD= 1.0954, bumps= 0
+  
+MWC, 20-Apr-2019 13:14:34, JLM, Masker=Experiment 2, thresh= 66, SD= 1.0954, bumps= 0
+  
+MWC, 20-Apr-2019 13:19:39, JLM, Masker=Experiment 3, thresh= 59.3333, SD= 1.5055, bumps= 0
+  
+MWC, 23-Apr-2019 13:22:44, JLM, Masker=Experiment 1, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 23-Apr-2019 13:28:19, JLM, Masker=Experiment 2, thresh= 70.6667, SD= 2.3381, bumps= 0
+  
+MWC, 23-Apr-2019 13:34:07, JLM, Masker=Experiment 3, thresh= 54.3333, SD= 2.0656, bumps= 0
+  
+MWC, 23-Apr-2019 16:20:23, SDF, Masker=Experiment 1, thresh= 61.3333, SD= 0.8165, bumps= 0
+  
+MWC, 23-Apr-2019 16:36:10, SDF, Masker=Experiment 2, thresh= 53.6667, SD= 2.7325, bumps= 0
+  
+MWC, 23-Apr-2019 16:43:43, SDF, Masker=Experiment 3, thresh= 45.6667, SD= 1.0328, bumps= 0
+  
+MWC, 27-Apr-2019 17:05:48, JLM, Masker=Experiment 1, thresh= 66.3333, SD= 3.5024, bumps= 0
+  
+MWC, 27-Apr-2019 17:13:36, jlm, Masker=Experiment 2, thresh= 61.3333, SD= 6.121, bumps= 0
+  
+MWC, 27-Apr-2019 17:19:34, jlm, Masker=Experiment 3, thresh= 57, SD= 2.5298, bumps= 0
+  
+MWC, 30-Apr-2019 16:35:01, JLM, Masker=Experiment 1, thresh= 66.6667, SD= 0.8165, bumps= 0
+  
+MWC, 30-Apr-2019 16:41:19, JLM, Masker=Experiment 2, thresh= 64.3333, SD= 5.164, bumps= 0
+  
+MWC, 30-Apr-2019 16:47:03, JLM, Masker=Experiment 3, thresh= 58.6667, SD= 1.5055, bumps= 0
+  
+MWC, 08-May-2019 10:40:50, jlm, Masker=Experiment 1, thresh= 52.3333, SD= 1.633, bumps= 0
+  
+MWC, 08-May-2019 10:46:40, jlm, Masker=Experiment 2, thresh= 47.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-May-2019 10:52:15, JLM, Masker=Experiment 3, thresh= 52.6667, SD= 2.3381, bumps= 0
+  
+MWC, 09-May-2019 15:36:25, EKC (recreated), Masker=Experiment 2, thresh= 59.3333, SD= 3.8816, bumps= 0
+  
+MWC, 09-May-2019 16:35:22, JLM (EKC recreated), Masker=Experiment 3, thresh= 56.3333, SD= 1.633, bumps= 0
+  
+MWC, 09-May-2019 16:41:55, JLM (EKC recreated), Masker=Experiment 2, thresh= 63, SD= 2.5298, bumps= 0
+  
+MWC, 09-May-2019 16:51:32, JLM (EKC recreated), Masker=Experiment 3, thresh= 59.6667, SD= 1.633, bumps= 0
+  
+MWC, 09-May-2019 16:57:30, JLM (EKC recreated), Masker=Experiment 1, thresh= 74, SD= 1.0954, bumps= 0
+  
+MWC, 09-May-2019 17:05:19, JLM (EKC recreated), Masker=Experiment 2, thresh= 74.6667, SD= 1.0328, bumps= 2
+  
+MWC, 18-May-2019 15:58:54, JTP, Masker=Experiment 1, thresh= 69, SD= 7.2664, bumps= 0
+  
+MWC, 18-May-2019 16:06:47, JTP, Masker=Experiment 2, thresh= 55.6667, SD= 1.633, bumps= 0
+  
+MWC, 18-May-2019 16:10:44, JTP, Masker=Experiment 3, thresh= 55.6667, SD= 1.0328, bumps= 0
+  
+MWC, 31-May-2019 12:17:28, JLM, Masker=Experiment 1, thresh= 63.3333, SD= 1.9664, bumps= 0
+  
+MWC, 31-May-2019 12:24:27, JLM, Masker=Experiment 2, thresh= 54, SD= 3.9497, bumps= 0
+  
+MWC, 31-May-2019 12:31:36, JLM, Masker=Experiment 3, thresh= 62.3333, SD= 3.266, bumps= 0
+  
+MWC, 18-Jun-2019 11:14:42, EKC (recreated), Masker=Experiment 1, thresh= 55.3333, SD= 0.8165, bumps= 0
+  
+MWC, 18-Jun-2019 11:24:47, EKC (recreated), Masker=Experiment 1, thresh= 45.6667, SD= 2.4221, bumps= 0
+  
+MWC, 18-Jun-2019 11:34:19, EKC (recreated), Masker=Experiment 1, thresh= 66, SD= 5.7619, bumps= 0
+  
+MWC, 18-Jun-2019 11:43:18, EKC (recreated), Masker=Experiment 2, thresh= 55.3333, SD= 1.9664, bumps= 0
+  
+MWC, 18-Jun-2019 11:50:41, EKC (recreated), Masker=Experiment 2, thresh= 60.6667, SD= 2.3381, bumps= 0
+  
+MWC, 18-Jun-2019 11:56:56, EKC (recreated), Masker=Experiment 3, thresh= 52.6667, SD= 1.5055, bumps= 0
+  
+MWC, 18-Jun-2019 12:04:11, EKC (recreated), Masker=Experiment 1, thresh= 60, SD= 3.2863, bumps= 0
+  
+MWC, 18-Jun-2019 12:14:32, EKC (recreated), Masker=Experiment 2, thresh= 60.6667, SD= 4.6332, bumps= 0
+  
+MWC, 21-Jun-2019 13:38:54, JTP, Masker=Experiment 1, thresh= 41, SD= 2.8284, bumps= 0
+  
+MWC, 21-Jun-2019 13:48:09, JTP, Masker=Experiment 2, thresh= 33.3333, SD= 1.5055, bumps= 0
+  
+MWC, 21-Jun-2019 13:54:57, JTP, Masker=Experiment 3, thresh= 47.3333, SD= 3.4448, bumps= 0
+  
+MWC, 19-Jul-2019 10:27:26, JTP (EKC recreated), Masker=Experiment 3, thresh= 52.3333, SD= 5.164, bumps= 0
+  
+MWC, 06-Aug-2019 12:45:03, JTP, Masker=Experiment 1, thresh= 63.6667, SD= 2.7325, bumps= 0
+  
+MWC, 06-Aug-2019 12:52:51, 2, Masker=Experiment 2, thresh= 55, SD= 1.2649, bumps= 0
+  
+MWC, 06-Aug-2019 13:00:05, JTP, Masker=Experiment 3, thresh= 58, SD= 4.5166, bumps= 0
+  
+MWC, 24-Aug-2019 12:44:14, JTP, Masker=Experiment 1, thresh= 60.3333, SD= 1.633, bumps= 0
+  
+MWC, 24-Aug-2019 12:57:22, jtP, Masker=Experiment 3, thresh= 68.6667, SD= 1.5055, bumps= 0
+  
+MWC, 24-Aug-2019 13:07:24, JTP, Masker=Experiment 1, thresh= 61, SD= 4, bumps= 0
+  
+MWC, 28-Aug-2019 12:45:48, JTP, Masker=Experiment 1, thresh= 70.6667, SD= 1.5055, bumps= 0
+  
+MWC, 31-Aug-2019 15:03:55, JTP, Masker=Experiment 1, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 31-Aug-2019 15:10:30, JTP, Masker=Experiment 1, thresh= 61.6667, SD= 3.266, bumps= 0
+  
+MWC, 31-Aug-2019 15:17:30, JTP, Masker=Experiment 3, thresh= 59, SD= 3.5777, bumps= 0
+  
+MWC, 24-Sep-2019 18:45:20, JTP, Masker=Experiment 1, thresh= 57.3333, SD= 3.4448, bumps= 0
+  
+MWC, 24-Sep-2019 18:52:43, JTP, Masker=Experiment 2, thresh= 63.3333, SD= 2.9439, bumps= 0
+  
+MWC, 24-Sep-2019 19:11:47, JTP, Masker=Experiment 1, thresh= 59.6667, SD= 2.4221, bumps= 0
+  
+MWC, 24-Sep-2019 19:20:15, JTP, Masker=Experiment 2, thresh= 60, SD= 5.4772, bumps= 0
+  
+MWC, 24-Sep-2019 19:28:34, JTP, Masker=Experiment 3, thresh= 58.6667, SD= 1.9664, bumps= 0
+  
+MWC, 28-Sep-2019 09:27:02, JTP, Masker=Experiment 1, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 28-Sep-2019 09:34:06, JTP, Masker=Experiment 2, thresh= 53, SD= 1.2649, bumps= 0
+  
+MWC, 28-Sep-2019 09:40:41, JTP, Masker=Experiment 3, thresh= 60, SD= 3.9497, bumps= 0
+  
+MWC, 04-Oct-2019 12:25:37, EKC, Masker=Experiment 1, thresh= 68, SD= 3.5214, bumps= 0
+  
+MWC, 04-Oct-2019 12:31:19, EKC, Masker=Experiment 2, thresh= 70.3333, SD= 1.0328, bumps= 0
+  
+MWC, 04-Oct-2019 12:35:15, EKC, Masker=Experiment 3, thresh= 60.6667, SD= 2.9439, bumps= 0
+  
+MWC, 05-Oct-2019 19:20:17, JTP, Masker=Experiment 1, thresh= 64.6667, SD= 2.9439, bumps= 0
+  
+MWC, 05-Oct-2019 19:24:56, JTP, Masker=Experiment 2, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 05-Oct-2019 19:30:51, JTP, Masker=Experiment 3, thresh= 56.6667, SD= 4.6332, bumps= 0
+  
+MWC, 08-Oct-2019 15:32:13, LMB, Masker=Experiment 1, thresh= 55.3333, SD= 2.3381, bumps= 0
+  
+MWC, 08-Oct-2019 15:42:32, LMB, Masker=Experiment 3, thresh= 72.3333, SD= 2.4221, bumps= 0
+  
+MWC, 11-Oct-2019 11:01:17, EKC, Masker=Experiment 1, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 11-Oct-2019 11:09:04, EKC, Masker=Experiment 2, thresh= 58.3333, SD= 4.6762, bumps= 0
+  
+MWC, 11-Oct-2019 11:16:05, EKC, Masker=Experiment 3, thresh= 58, SD= 3.5214, bumps= 0
+  
+MWC, 12-Oct-2019 13:34:49, JTP, Masker=Experiment 1, thresh= 57.6667, SD= 1.0328, bumps= 0
+  
+MWC, 12-Oct-2019 13:38:49, jtp, Masker=Experiment 2, thresh= 57.3333, SD= 0.8165, bumps= 0
+  
+MWC, 12-Oct-2019 13:45:50, JTP, Masker=Experiment 3, thresh= 48.3333, SD= 3.9328, bumps= 0
+  
+MWC, 14-Oct-2019 11:42:54, JTP, Masker=Experiment 1, thresh= 73, SD= 1.2649, bumps= 0
+  
+MWC, 14-Oct-2019 11:47:41, JTP, Masker=Experiment 2, thresh= 59.3333, SD= 2.3381, bumps= 0
+  
+MWC, 14-Oct-2019 11:54:11, jtp, Masker=Experiment 3, thresh= 62.3333, SD= 1.633, bumps= 0
+  
+MWC, 16-Oct-2019 09:23:19, JTP, Masker=Experiment 1, thresh= 68.3333, SD= 1.0328, bumps= 0
+  
+MWC, 16-Oct-2019 09:31:38, JTP, Masker=Experiment 3, thresh= 73, SD= 4, bumps= 0
+  
+MWC, 19-Oct-2019 10:53:14, JTP, Masker=Experiment 1, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 19-Oct-2019 11:01:20, JTP, Masker=Experiment 2, thresh= 72, SD= 1.0954, bumps= 0
+  
+MWC, 19-Oct-2019 11:09:26, jtp, Masker=Experiment 3, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 21-Oct-2019 16:57:15, JTP, Masker=Experiment 1, thresh= 71, SD= 2.5298, bumps= 0
+  
+MWC, 21-Oct-2019 17:02:44, jtp, Masker=Experiment 2, thresh= 65.3333, SD= 2.9439, bumps= 0
+  
+MWC, 21-Oct-2019 17:09:24, JTP, Masker=Experiment 3, thresh= 65, SD= 8, bumps= 0
+  
+MWC, 22-Oct-2019 16:58:12, TW, Masker=Experiment 1, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 25-Oct-2019 10:23:24, EKC, Masker=Experiment 1, thresh= 66, SD= 1.0954, bumps= 0
+  
+MWC, 25-Oct-2019 10:30:08, EKC, Masker=Experiment 2, thresh= 67.6667, SD= 1.633, bumps= 0
+  
+MWC, 25-Oct-2019 10:34:57, EKC, Masker=Experiment 3, thresh= 64, SD= 2.0976, bumps= 0
+  
+MWC, 05-Nov-2019 12:06:06, lmb, Masker=Experiment 1, thresh= 58.3333, SD= 1.633, bumps= 0
+  
+MWC, 05-Nov-2019 12:17:19, lmb, Masker=Experiment 2, thresh= 64.3333, SD= 7.4476, bumps= 0
+  
+MWC, 05-Nov-2019 12:24:46, lmb, Masker=Experiment 3, thresh= 69.3333, SD= 1.5055, bumps= 0
+  
+MWC, 07-Nov-2019 10:22:57, LMB, Masker=Experiment 1, thresh= 65.3333, SD= 1.5055, bumps= 0
+  
+MWC, 07-Nov-2019 10:29:16, LMB, Masker=Experiment 2, thresh= 72, SD= 2.4495, bumps= 0
+  
+MWC, 07-Nov-2019 10:34:36, LMB, Masker=Experiment 3, thresh= 76.3333, SD= 2.5033, bumps= 1
+  
+MWC, 16-Nov-2019 12:37:50, EKC, Masker=Experiment 1, thresh= 64.3333, SD= 1.633, bumps= 0
+  
+MWC, 16-Nov-2019 12:43:07, EKC, Masker=Experiment 2, thresh= 69.3333, SD= 1.5055, bumps= 0
+  
+MWC, 16-Nov-2019 12:47:21, EKC, Masker=Experiment 3, thresh= 57.6667, SD= 2.4221, bumps= 0
+  
+MWC, 16-Nov-2019 15:13:20, jtp, Masker=Experiment 1, thresh= 66.3333, SD= 2.4221, bumps= 0
+  
+MWC, 16-Nov-2019 15:19:34, jtp, Masker=Experiment 2, thresh= 62.6667, SD= 2.3381, bumps= 0
+  
+MWC, 16-Nov-2019 15:24:32, JTP, Masker=Experiment 3, thresh= 59, SD= 3.0984, bumps= 0
+  
+MWC, 20-Nov-2019 15:24:17, jtp, Masker=Experiment 3, thresh= 55.6667, SD= 2.4221, bumps= 0
+  
+MWC, 23-Nov-2019 16:04:13, jtp, Masker=Experiment 1, thresh= 60, SD= 2.0976, bumps= 0
+  
+MWC, 23-Nov-2019 16:11:36, jtp, Masker=Experiment 2, thresh= 64, SD= 2.7568, bumps= 0
+  
+MWC, 23-Nov-2019 16:18:27, jtp, Masker=Experiment 3, thresh= 66.6667, SD= 1.5055, bumps= 0
+  
+MWC, 07-Dec-2019 13:42:10, JTP, Masker=Experiment 1, thresh= 48.3333, SD= 3.266, bumps= 0
+  
+MWC, 07-Dec-2019 13:48:16, JTP, Masker=Experiment 2, thresh= 68.6667, SD= 2.9439, bumps= 0
+  
+MWC, 07-Dec-2019 13:54:44, JTP, Masker=Experiment 1, thresh= 56.6667, SD= 1.9664, bumps= 0
+  
+MWC, 07-Dec-2019 13:59:48, JTP, Masker=Experiment 3, thresh= 60.3333, SD= 1.0328, bumps= 0
+  
+MWC, 11-Dec-2019 10:39:58, EKC, Masker=Experiment 1, thresh= 66, SD= 2.0976, bumps= 0
+  
+MWC, 11-Dec-2019 10:44:35, EKC, Masker=Experiment 2, thresh= 62.3333, SD= 3.0111, bumps= 0
+  
+MWC, 11-Dec-2019 10:48:58, EKC, Masker=Experiment 3, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 20-Dec-2019 12:25:54, JTP, Masker=Experiment 1, thresh= 50.6667, SD= 5.1251, bumps= 0
+  
+MWC, 20-Dec-2019 12:30:48, jtp, Masker=Experiment 2, thresh= 59, SD= 3.0984, bumps= 0
+  
+MWC, 20-Dec-2019 12:36:13, jtp, Masker=Experiment 3, thresh= 56.3333, SD= 1.633, bumps= 0
+  
+MWC, 20-Dec-2019 12:41:03, jtp, Masker=Experiment 1, thresh= 64.3333, SD= 1.0328, bumps= 0
+  
+MWC, 10-Jan-2020 12:58:55, EKC, Masker=Experiment 1, thresh= 65.6667, SD= 5.164, bumps= 0
+  
+MWC, 10-Jan-2020 13:06:54, EKC, Masker=Experiment 2, thresh= 57.6667, SD= 3.0111, bumps= 0
+  
+MWC, 10-Jan-2020 13:13:38, EKC, Masker=Experiment 3, thresh= 64, SD= 2.7568, bumps= 0
+  
+MWC, 11-Jan-2020 13:53:48, JTP, Masker=Experiment 1, thresh= 62.6667, SD= 0.8165, bumps= 0
+  
+MWC, 11-Jan-2020 13:59:38, JTP, Masker=Experiment 2, thresh= 67.6667, SD= 1.0328, bumps= 0
+  
+MWC, 11-Jan-2020 14:04:38, JTP, Masker=Experiment 3, thresh= 56.3333, SD= 1.0328, bumps= 0
+  
+MWC, 11-Jan-2020 15:50:40, JTP, Masker=Experiment 1, thresh= 61, SD= 3.0984, bumps= 0
+  
+MWC, 11-Jan-2020 15:56:33, jtp, Masker=Experiment 2, thresh= 52.3333, SD= 1.0328, bumps= 0
+  
+MWC, 11-Jan-2020 16:02:20, jtp, Masker=Experiment 2, thresh= 64.6667, SD= 1.5055, bumps= 0
+  
+MWC, 11-Jan-2020 16:07:55, jtp, Masker=Experiment 3, thresh= 55.6667, SD= 2.0656, bumps= 0
+  
+MWC, 11-Jan-2020 16:14:21, jtp, Masker=Experiment 3, thresh= 51.3333, SD= 0.8165, bumps= 0
+  
+MWC, 21-Jan-2020 11:53:41, EKC, Masker=Experiment 1, thresh= 60.6667, SD= 3.4448, bumps= 0
+  
+MWC, 21-Jan-2020 12:00:43, EKC, Masker=Experiment 2, thresh= 62.3333, SD= 3.9328, bumps= 0
+  
+MWC, 21-Jan-2020 12:08:02, EKC, Masker=Experiment 3, thresh= 58.6667, SD= 2.9439, bumps= 0
+  
+MWC, 28-Jan-2020 13:29:39, EKC, Masker=Experiment 1, thresh= 59.6667, SD= 2.7325, bumps= 0
+  
+MWC, 28-Jan-2020 13:34:13, EKC, Masker=Experiment 2, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 28-Jan-2020 13:38:57, EKC, Masker=Experiment 3, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 06-Feb-2020 17:41:04, JTP, Masker=Experiment 1, thresh= 70.6667, SD= 6.121, bumps= 0
+  
+MWC, 06-Feb-2020 17:46:31, JTP, Masker=Experiment 2, thresh= 58.6667, SD= 0.8165, bumps= 0
+  
+MWC, 06-Feb-2020 17:51:05, JTP, Masker=Experiment 3, thresh= 59.3333, SD= 1.5055, bumps= 0
+  
+MWC, 08-Feb-2020 12:49:37, LMB, Masker=Experiment 1, thresh= 63.6667, SD= 3.5024, bumps= 0
+  
+MWC, 08-Feb-2020 13:01:19, LMB, Masker=Experiment 2, thresh= 64, SD= 1.0954, bumps= 0
+  
+MWC, 08-Feb-2020 13:09:04, LMB, Masker=Experiment 3, thresh= 59.3333, SD= 0.8165, bumps= 0
+  
+MWC, 10-Feb-2020 10:47:16, jtp, Masker=Experiment 1, thresh= 66, SD= 2.0976, bumps= 0
+  
+MWC, 10-Feb-2020 10:55:26, jtp, Masker=Experiment 2, thresh= 39, SD= 1.7889, bumps= 0
+  
+MWC, 10-Feb-2020 11:02:05, jtp, Masker=Experiment 2, thresh= 56.6667, SD= 1.5055, bumps= 0
+  
+MWC, 10-Feb-2020 11:08:20, jtp, Masker=Experiment 3, thresh= 52.3333, SD= 1.633, bumps= 0
+  
+MWC, 12-Feb-2020 11:22:23, TEW, Masker=Experiment 1, thresh= 61.6667, SD= 1.0328, bumps= 0
+  
+MWC, 12-Feb-2020 11:28:09, TEW, Masker=Experiment 2, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 12-Feb-2020 11:36:16, TEW, Masker=Experiment 3, thresh= 64, SD= 3.2863, bumps= 0
+  
+MWC, 18-Feb-2020 18:32:36, jtp, Masker=Experiment 1, thresh= 57, SD= 1.7889, bumps= 0
+  
+MWC, 18-Feb-2020 18:38:38, jtp, Masker=Experiment 2, thresh= 52.3333, SD= 1.0328, bumps= 0
+  
+MWC, 18-Feb-2020 18:44:42, jtp, Masker=Experiment 3, thresh= 71.3333, SD= 1.5055, bumps= 0
+  
+MWC, 18-Feb-2020 18:52:04, jtp, Masker=Experiment 1, thresh= 67, SD= 2.5298, bumps= 0
+  
+MWC, 18-Feb-2020 18:58:36, jtp, Masker=Experiment 2, thresh= 57, SD= 7.0427, bumps= 0
+  
+MWC, 22-Feb-2020 12:16:03, EKC, Masker=Experiment 1, thresh= 57.3333, SD= 4.274, bumps= 0
+  
+MWC, 22-Feb-2020 12:23:19, EKC, Masker=Experiment 2, thresh= 63.3333, SD= 2.9439, bumps= 0
+  
+MWC, 22-Feb-2020 12:28:29, EKC, Masker=Experiment 3, thresh= 61.3333, SD= 2.3381, bumps= 0
+  
+MWC, 22-Feb-2020 14:58:14, EKC, Masker=Experiment 1, thresh= 49.6667, SD= 2.4221, bumps= 0
+  
+MWC, 22-Feb-2020 15:02:53, EKC, Masker=Experiment 2, thresh= 56, SD= 2.0976, bumps= 0
+  
+MWC, 22-Feb-2020 15:08:22, EKC, Masker=Experiment 3, thresh= 57.6667, SD= 2.7325, bumps= 0
+  
+MWC, 26-Feb-2020 11:21:59, jtp, Masker=Experiment 1, thresh= 63.3333, SD= 2.6583, bumps= 0
+  
+MWC, 26-Feb-2020 11:27:32, jtp, Masker=Experiment 2, thresh= 61.3333, SD= 2.9439, bumps= 0
+  
+MWC, 26-Feb-2020 11:32:17, jtp, Masker=Experiment 3, thresh= 54, SD= 1.0954, bumps= 0
+  
+MWC, 28-Feb-2020 19:03:50, jtp, Masker=Experiment 1, thresh= 59.3333, SD= 1.5055, bumps= 0
+  
+MWC, 28-Feb-2020 19:10:55, jtp, Masker=Experiment 2, thresh= 69.6667, SD= 1.0328, bumps= 0
+  
+MWC, 28-Feb-2020 19:16:08, jtp, Masker=Experiment 3, thresh= 65.6667, SD= 1.0328, bumps= 0
+  
+MWC, 07-Mar-2020 12:41:03, JTP, Masker=Experiment 1, thresh= 66.3333, SD= 8.165, bumps= 0
+  
+MWC, 07-Mar-2020 12:47:06, jtp, Masker=Experiment 2, thresh= 55, SD= 2.5298, bumps= 0
+  
+MWC, 07-Mar-2020 12:54:59, jtp, Masker=Experiment 2, thresh= 68.3333, SD= 2.3381, bumps= 1
+  
+MWC, 07-Mar-2020 13:00:49, jtp, Masker=Experiment 3, thresh= 58.6667, SD= 1.9664, bumps= 0
+  
+MWC, 07-Mar-2020 15:15:35, jtp, Masker=Experiment 1, thresh= 60.6667, SD= 1.5055, bumps= 0
+  
+MWC, 07-Mar-2020 15:20:34, jtp, Masker=Experiment 2, thresh= 55.3333, SD= 0.8165, bumps= 0
+  
+MWC, 07-Mar-2020 15:27:53, JTP, Masker=Experiment 3, thresh= 65.6667, SD= 4.5019, bumps= 0
+  
+MWC, 10-Mar-2020 13:49:30, EKC, Masker=Experiment 1, thresh= 70.3333, SD= 3.5024, bumps= 0
+  
+MWC, 10-Mar-2020 13:53:26, EKC, Masker=Experiment 2, thresh= 64.3333, SD= 1.0328, bumps= 0
+  
+MWC, 10-Mar-2020 13:58:25, EKC, Masker=Experiment 3, thresh= 65.3333, SD= 2.9439, bumps= 0
+  
+MWC, 14-Mar-2020 12:39:22, jtp, Masker=Experiment 1, thresh= 62, SD= 1.6733, bumps= 0
+  
+MWC, 14-Mar-2020 12:47:59, jtp, Masker=Experiment 2, thresh= 54.6667, SD= 1.5055, bumps= 0
+  
+MWC, 14-Mar-2020 12:55:56, jtp, Masker=Experiment 3, thresh= 50, SD= 1.0954, bumps= 0
+  
+MWC, 30-May-2020 13:51:40, jtp, Masker=Experiment 1, thresh= 52.6667, SD= 3.4448, bumps= 0
+  
+MWC, 30-May-2020 13:58:04, jtp, Masker=Experiment 1, thresh= 53, SD= 1.2649, bumps= 0
+  
+MWC, 30-May-2020 14:04:58, jtp, Masker=Experiment 3, thresh= 57.6667, SD= 1.0328, bumps= 0
+  
+MWC, 06-Jun-2020 12:04:16, jtp, Masker=Experiment 1, thresh= 62, SD= 4.858, bumps= 0
+  
+MWC, 06-Jun-2020 12:10:27, jtp, Masker=Experiment 1, thresh= 68.6667, SD= 2.3381, bumps= 0
+  
+MWC, 06-Jun-2020 12:16:41, jtp, Masker=Experiment 3, thresh= 65.6667, SD= 3.0111, bumps= 0
+  
+MWC, 13-Jun-2020 14:23:32, jtp, Masker=Experiment 1, thresh= 66, SD= 3.5214, bumps= 0
+  
+MWC, 13-Jun-2020 14:30:00, jtp, Masker=Experiment 1, thresh= 65.6667, SD= 2.7325, bumps= 0
+  
+MWC, 13-Jun-2020 14:37:00, jtp, Masker=Experiment 3, thresh= 61, SD= 2.5298, bumps= 0
+  
+MWC, 16-Jun-2020 11:43:22, jtp, Masker=Experiment 1, thresh= 66, SD= 2.4495, bumps= 0
+  
+MWC, 16-Jun-2020 11:49:10, jtp, Masker=Experiment 1, thresh= 73, SD= 1.2649, bumps= 0
+  
+MWC, 16-Jun-2020 11:56:42, jtp, Masker=Experiment 3, thresh= 68.3333, SD= 5.0067, bumps= 0
+  
+MWC, 22-Jun-2020 12:27:58, jtp  
+MWC, 22-Jun-2020 12:33:37, jtp, Masker=Experiment 3, thresh= 49.6667, SD= 1.0328, bumps= 0
+  
+MWC, 22-Jun-2020 12:40:36, jtp, Masker=Experiment 1, thresh= 57.3333, SD= 1.5055, bumps= 0
+  
+MWC, 23-Jun-2020 15:40:13, jtp, Masker=Experiment 1, thresh= 57.6667, SD= 1.0328, bumps= 0
+  
+MWC, 23-Jun-2020 15:45:11, jtp, Masker=Experiment 3, thresh= 50.3333, SD= 1.0328, bumps= 0
+  
+MWC, 23-Jun-2020 15:53:14, jtp, Masker=Experiment 1, thresh= 69.3333, SD= 3.8816, bumps= 0
+  
+MWC, 23-Jun-2020 16:01:43, jtp, Masker=Experiment 3, thresh= 59.3333, SD= 8.5245, bumps= 0
+  
+MWC, 29-Jun-2020 16:59:23, jtp, Masker=Experiment 1, thresh= 65.3333, SD= 1.5055, bumps= 0
+  
+MWC, 29-Jun-2020 17:11:21, jtp, Masker=Experiment 1, thresh= 61.6667, SD= 2.0656, bumps= 0
+  
+MWC, 29-Jun-2020 17:16:39, jtp, Masker=Experiment 3, thresh= 53.6667, SD= 1.0328, bumps= 0
+  
+MWC, 30-Jun-2020 12:55:23, EKC, Masker=Experiment 1, thresh= 71.6667, SD= 2.4221, bumps= 0
+  
+MWC, 30-Jun-2020 13:03:33, EKC, Masker=Experiment 3, thresh= 60, SD= 2.0976, bumps= 0
+  
+MWC, 30-Jun-2020 14:13:21, EKC, Masker=Experiment 1, thresh= 63.3333, SD= 1.5055, bumps= 0
+  
+MWC, 27-Jul-2020 13:39:00, jtp, Masker=Experiment 1, thresh= 73, SD= 1.2649, bumps= 0
+  
+MWC, 27-Jul-2020 13:52:23, jtp, Masker=Experiment 2, thresh= 59.3333, SD= 2.3381, bumps= 0
+  
+MWC, 27-Jul-2020 14:05:21, jtp, Masker=Experiment 3, thresh= 62.3333, SD= 1.633, bumps= 0
